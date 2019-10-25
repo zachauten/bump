@@ -1,0 +1,658 @@
+abook (guessed) : 0.5.6 ==> 0_6_1
+abyss (guessed) : 2.2.1 ==> 2014-submission
+ace (guessed) : 6.5.6 ==> 20040122
+ack (guessed) : 3.1.2 ==> 3.1.3
+acmetool (guessed) : 0.0.67 ==> 0.2.1
+advancemenu (guessed) : 2.9 ==> 3.9
+agda (guessed) : 2.6.0.1 ==> 08-2
+agedu : 20190630 ==> 20190630.66cb14d
+akka (guessed) : 2.4.20 ==> 14v12p01
+allegro (guessed) : 5.2.5.0 ==> 4418
+ampl-mp (guessed) : 3.1.0 ==> 20141208
+ansible : 2.8.5 ==> 2.8.6
+aom (guessed) : 1.0.0 ==> 1.0.0-errata1
+apache-arrow (guessed) : 0.15.0 ==> 0.15.1
+apache-arrow-glib (guessed) : 0.15.0 ==> 0.15.1
+apache-brooklyn-cli (guessed) : 0.12.0 ==> 1.0.0-M1
+apache-spark (guessed) : 2.4.4 ==> 3.0.0-preview
+apgdiff (guessed) : 2.4 ==> 2.5.0-alpha.2
+apm-server (guessed) : 6.2.4 ==> 7.4.1
+appledoc (guessed) : 2.2.1 ==> 3.0exp1
+appscale-tools (guessed) : 3.5.3 ==> 3.8.1
+appstream-glib (guessed) : 0.7.15 ==> 0_7_16
+arangodb (guessed) : 3.5.0 ==> 3.5.1.1
+aravis (guessed) : 0.6.4 ==> 0.7.2
+archey (guessed) : 1.6.0 ==> 1.6.0-pr
+archi-steam-farm (guessed) : 2.3.2.0 ==> 4.1.0.2
+arduino-cli (guessed) : 0.5.0 ==> 1.1.0
+arm-linux-gnueabihf-binutils (guessed) : 2.32 ==> 2.33.1
+artifactory : 6.10.3 ==> 6.13.1
+arx (guessed) : 0.3.2 ==> 1
+arx-libertatis (guessed) : 1.1.2 ==> 1.21
+asciidoctorj (guessed) : 2.1.0 ==> 3-1.5.0-alpha.8.1
+asio : 1.12.2 ==> 1.14.0
+assimp (guessed) : 4.1.0 ==> 5.0.0
+atk (guessed) : 2.34.1 ==> 2.35.1
+atkmm (guessed) : 2.28.0 ==> 2.29.1
+atlassian-cli : 8.5.0 ==> 9.0.0
+audacious (guessed) : 3.9 ==> 3.10.1-gtk3
+auditbeat (guessed) : 6.8.4 ==> 7.4.1
+autopsy (guessed) : 2.24 ==> 4.3.0
+aws-elasticbeanstalk : 3.14.6 ==> 3.15.3
+aws-sdk-cpp (guessed) : 1.7.210 ==> 1.7.211
+awscli : 1.16.260 ==> 1.16.266
+axel (guessed) : 2.17.3 ==> 2.17.6
+azure-cli (guessed) : 2.0.75 ==> 3.1.5
+azure-storage-cpp (guessed) : 6.1.0 ==> 7.0.0
+babeld : 1.8.5 ==> 1.9.1
+babl : 0.1.68 ==> 0.1.72
+bagit (guessed) : 4.12.3 ==> 5.2.0
+bareos-client (guessed) : 17.2.7 ==> 18.4.1
+baresip : 0.5.10 ==> 0.6.4
+bash-completion@2 : 2.8 ==> 2.9
+bashdb : 4.4-0.94 ==> 5.0-1.1.1
+bazelisk (guessed) : 1.0 ==> 1.1.0
+bde (guessed) : 3.0.0.0 ==> 3.39.0.0
+beagle (guessed) : 3.1.2 ==> 2010
+benthos (guessed) : 3.2.0 ==> 3.3.1
+bgpq3 (guessed) : 0.1.35 ==> 1_0_4
+bibtexconv (guessed) : 1.1.13 ==> 1.1.18
+bibutils : 6.7 ==> 6.8
+bigloo : 4.3e ==> 4.3f
+binutils (guessed) : 2.32 ==> 2.33.1
+bitcoin (guessed) : 0.18.1 ==> 0.19.0rc1
+bitlbee : 3.5.1 ==> 3.6
+blazegraph (guessed) : 2.1.4 ==> 2.1.5
+blitz (guessed) : 0.10 ==> 1.0.2
+bluepill : 5.0.0 ==> 5.1.0
+borgmatic (guessed) : 1.3.23 ==> 1.4.0
+brew-gem (guessed) : 1.0.0 ==> 2.2
+buildkit (guessed) : 0.6.2 ==> 1.1.3-experimental
+bup (guessed) : 0.29.2 ==> 0.30
+caddy (guessed) : 1.0.3 ==> 2.0.0-beta6
+calabash (guessed) : 1.1.24-98 ==> 1.1.29-99
+calicoctl (guessed) : 3.10.0 ==> 3.11.0-0.dev
+carla (guessed) : 2.0.0 ==> 2.1-b1-test1
+cassandra-reaper (guessed) : 1.3.0 ==> 1.4.7
+ccls (guessed) : 0.20190823.3 ==> 0.20190823.4
+cereal (guessed) : 1.2.2 ==> 1.3.0
+cern-ndiff (guessed) : 5.05.01 ==> 060411-10AM
+cfitsio : 3.450 ==> 3.470
+cfn-lint (guessed) : 0.24.5 ==> 0.24.6
+cgal (guessed) : 4.14.1 ==> 5.0-beta1
+chakra (guessed) : 1.11.13 ==> 1.11.14
+charm-tools : 2.2.3 ==> 2.7.2
+cheat (guessed) : 2.3.1 ==> 3.0.0
+chocolate-doom (guessed) : 3.0.0 ==> 5
+cimg : 2.7.4 ==> 2.7.5
+citus (guessed) : 8.3.2 ==> 9.0.1
+clhep : 2.4.1.2 ==> 2.4.1.3
+clib (guessed) : 1.11.2 ==> 2.0.0-next.12
+cling : 0.5 ==> 0.6
+clojure-lsp (guessed) : 20190408 ==> 20191010T151127
+closure-compiler : 20190909 ==> 20190929
+clp (guessed) : 1.17.3 ==> 2002-11-05
+cockroach (guessed) : 19.1.5 ==> 201910231845_v19.2.0-rc.2
+coinutils (guessed) : 2.11.3 ==> 2002-11-05
+concurrencykit (guessed) : 0.6.0 ==> 0.7.0
+coq : 8.10.0 ==> 8.10.1
+cosi (guessed) : 0.8.5 ==> 0.8.6
+couchdb (guessed) : 1.7.2 ==> 20110908
+cpanminus (guessed) : 1.9019 ==> 1.9022
+cppad : 20190200.3 ==> 20190200.5
+create-dmg (guessed) : 1.0.0.5 ==> 1.0.0.7
+cryptominisat (guessed) : 5.6.8 ==> 2018
+cryptopp (guessed) : 8.1.0 ==> 8_2_0
+crystal (guessed) : 0.31.1 ==> 4
+css-crush (guessed) : 2.4.0 ==> 3.0.0-beta.5
+curaengine (guessed) : 15.04.6 ==> 15.06.03
+cypher-shell (guessed) : 1.1.12 ==> 4j-3.5.12
+dar : 2.5.16 ==> 2.6.6
+davmail (guessed) : 5.3.0 ==> 5.3.1
+dbus (guessed) : 1.12.16 ==> 1.13.12
+deark : 1.5.2 ==> 1.5.3
+debianutils : 4.8.6.3 ==> 4.9
+dhall-bash (guessed) : 1.0.24 ==> 1.27.0
+dhall-json (guessed) : 1.5.0 ==> 1.27.0
+digdag : 0.9.39 ==> 0_10_before_merge_v0_9_38
+disktype (guessed) : 9 ==> 99-branchpoint
+dita-ot (guessed) : 3.3.4 ==> 19_stable
+djvulibre (guessed) : 3.5.27 ==> 18n-mergepoint
+dlib (guessed) : 19.17 ==> 19.18
+dlite (guessed) : 1.1.5 ==> 2.0.0-beta9
+dmd (guessed) : 2.088.1 ==> 2.089.0-beta.2
+dnscontrol (guessed) : 2.9 ==> 5609e41703f05f4ad331
+dnsdist : 1.3.2 ==> 1.3.3
+docker-compose (guessed) : 1.24.1 ==> 1.25.0-rc2
+docker-compose-completion (guessed) : 1.24.1 ==> 1.25.0-rc2
+docker-credential-helper-ecr (guessed) : 0.3.1 ==> 2/0.3.0-1
+doctl (guessed) : 1.32.3 ==> 1.33.0
+dosbox-x (guessed) : 0.82.22 ==> 201805181700
+dps8m (guessed) : 1.0 ==> 7a1
+duck : 7.0.2.30998 ==> 7.1.1.31577
+dust (guessed) : 0.3.1 ==> 1499119fdec1dec70238
+dvc (guessed) : 0.65.0 ==> 0.66.0
+dwarfutils : 20180809 ==> 20191002
+dxflib : 2.5.0.0-1 ==> 3.17.0
+e2fsprogs : 1.44.5 ==> 1.45.4
+easyrpg-player : 0.6.0 ==> 0.6.1
+efl : 1.22.4 ==> 1.23.1
+ejabberd (guessed) : 19.05 ==> 19.09.1
+ejdb (guessed) : 1.2.12 ==> 2.0.28
+ekg2 (guessed) : 0.3.1 ==> 2_0.3.1
+elasticsearch (guessed) : 6.8.4 ==> 7.4.1
+elinks (guessed) : 0.11.7 ==> 0.12pre6
+elm (guessed) : 0.19.0 ==> 0.19.1
+embree (guessed) : 3.6.1 ==> 3.6.2-alpha.1
+emojify (guessed) : 1.0.2 ==> 2.1.0
+emscripten : 1.38.44 ==> 1.39.0
+epic5 (guessed) : 2.1.1 ==> 5-2.1.1
+erlang@20 : 20.3.8.22 ==> 20.3.8.23
+exim : 4.92.3 ==> 4.92.3-1
+exult (guessed) : 1.4.9rc1+r7520 ==> 03
+fairymax (guessed) : 4.8V ==> 5.0b
+fakeroot : 1.23 ==> 1.24
+fantom : 1.0.71 ==> 1.0.73
+fcl (guessed) : 0.5.0 ==> 0.6.0RC
+fdclone : 3.01h ==> 3.01j
+fdupes (guessed) : 1.6.1 ==> 1.51
+ffsend (guessed) : 0.2.52 ==> 0.2.54
+fibjs (guessed) : 0.28.0 ==> 20191020235350-e3f8651
+fifechan (guessed) : 0.1.5 ==> 2
+file-roller (guessed) : 3.32.2 ==> 3.35.1
+filebeat (guessed) : 6.2.4 ==> 7.4.1
+finatra (guessed) : 1.5.3 ==> 19.10.0
+fits (guessed) : 1.2.1 ==> 1.5.0
+fluent-bit : 0.14.9 ==> 1.3.2
+fluxctl (guessed) : 1.15.0 ==> 9a99
+flvmeta (guessed) : 1.2.1 ==> 1.2.2
+folly (guessed) : 2019.10.14.00 ==> 2019.10.21.00
+fon-flash-cli (guessed) : 1.10.0 ==> 1.11.0
+fox : 1.6.56 ==> 1.6.57
+freeglut (guessed) : 3.0.0 ==> 3.2.1
+freerdp (guessed) : 1.0.2 ==> 2.0.0-rc4
+freetds : 1.1.15 ==> 1.1.20
+frege (guessed) : 3.24.405 ==> 3.25
+frugal (guessed) : 3.4.8 ==> 3.4.9
+fstar (guessed) : 0.9.6.0 ==> 17
+fuse-zip : 0.6.2 ==> 0.7.0
+fuseki : 3.12.0 ==> 3.13.1
+fuzzy-find (guessed) : 0.6.0 ==> 0.6-flag-features
+gabedit : 2.5.0 ==> 250
+gambit (guessed) : 15.1.1 ==> 16.0.1
+gambit-scheme (guessed) : 4.9.3 ==> 4.9.3-bootstrap
+ganglia (guessed) : 3.7.2 ==> 06192002_1949_2_4_2
+gdal : 2.4.2 ==> 3.0.1
+gdb (guessed) : 8.3 ==> 20131001
+gdcm : 3.0.3 ==> 3.0.4
+geckodriver (guessed) : 0.25.0 ==> 0.26.0
+geeqie : 1.4 ==> 1.5.1
+geoserver (guessed) : 2.15.2 ==> 2.16.0
+gerbil-scheme (guessed) : 0.15.1 ==> 0.16-DEV
+gerbv : 2.6.0 ==> 2.7.0
+git-annex (guessed) : 7.20191017 ==> 7.20191024
+git-delta (guessed) : 0.0.13 ==> 0.0.14
+git-lfs (guessed) : 2.8.0 ==> 2.9.0
+git-multipush (guessed) : 2.3 ==> 2.4.rc2
+git-octopus (guessed) : 1.4 ==> 2.0-beta.3
+git-subrepo (guessed) : 0.4.0 ==> 216-1
+giter8 (guessed) : 0.11.0 ==> 0.12.0-M2
+gitfs (guessed) : 0.4.5.1 ==> 0.5.2
+gitlab-gem (guessed) : 4.11.0 ==> 4.12.0
+gitlab-runner (guessed) : 12.3.0 ==> 12.4.0
+gjs (guessed) : 1.58.1 ==> 1.63.1
+glbinding (guessed) : 2.1.4 ==> 3.1.0
+glib (guessed) : 2.62.2 ==> 2.63.0
+glib-networking (guessed) : 2.62.1 ==> 2.63.1
+glibmm (guessed) : 2.62.0 ==> 2.63.1
+glm : 0.9.9.5 ==> 0.9.9.6
+globus-toolkit : 6.0.1531931206 ==> 6.0.1558548600
+glooctl (guessed) : 0.20.9 ==> 1.0.0-rc1
+glslang (guessed) : 7.11.3214 ==> 17964dc8f720e212dcb7
+glslviewer (guessed) : 1.5.5 ==> 1.6.0
+gmic : 2.7.4 ==> 2.7.5
+gnome-builder (guessed) : 3.30.3 ==> 3.34.1
+gnome-themes-standard (guessed) : 3.22.3 ==> 3.27.90
+gnu-go (guessed) : 3.8 ==> 3-9-1
+gnu-smalltalk (guessed) : 3.2.5 ==> 3.2.91
+gnuradio (guessed) : 3.7.13.4 ==> 3.8tech-preview
+go-bindata (guessed) : 3.15.0 ==> 3.16.0
+gollum (guessed) : 0.5.4 ==> 0.6.0-beta2
+golo (guessed) : 3.3.0 ==> 3.3.0-M1
+goose (guessed) : 2.3.0 ==> 2.7.0-rc4
+goreman (guessed) : 0.3.0 ==> 0.3.4
+gosu (guessed) : 1.14.15 ==> 1.15.8
+gpredict (guessed) : 2.2.1 ==> 2.3
+gpsbabel (guessed) : 1.6.0 ==> 20060521
+grafana (guessed) : 6.4.2 ==> 6.4.3
+grok (guessed) : 0.9.2 ==> 1.20110630
+gromacs : 2019.3 ==> 2019.4
+grpc-swift (guessed) : 0.9.1 ==> 1.0.0-alpha.6
+gsoap : 2.8.89 ==> 2.8.94
+gtk+ (guessed) : 2.24.32 ==> 19971201
+gtk+3 (guessed) : 3.24.12 ==> 3.94.0
+gtk-gnutella (guessed) : 1.1.14 ==> 1.1.15
+gtkdatabox (guessed) : 0.9.3.0 ==> 0.9.3.1
+gtkmm (guessed) : 2.24.5 ==> 3.95.1
+gtkmm3 (guessed) : 3.24.2 ==> 3.95.1
+gtksourceview (guessed) : 2.10.5 ==> 4.4.0
+gtksourceview3 (guessed) : 3.24.11 ==> 4.4.0
+gtksourceviewmm (guessed) : 2.10.3 ==> 3.91.1
+gtksourceviewmm3 (guessed) : 3.18.0 ==> 3.91.1
+h264bitstream (guessed) : 0.1.9 ==> 0.2.0
+h2o (guessed) : 2.2.6 ==> 2.3.0-beta2
+haproxy : 2.0.7 ==> 2.0.8
+hbase : 1.3.5 ==> 1.4.11
+heartbeat (guessed) : 6.2.4 ==> 7.4.1
+heimdal : 7.6.0 ==> 7.7.0
+helmsman (guessed) : 1.12.0 ==> 1.12.1
+hfstospell (guessed) : 0.5.0 ==> 0.5.1
+homeassistant-cli (guessed) : 0.7.0 ==> 833e7f9176e1e602853d
+hopenpgp-tools (guessed) : 0.21.3 ==> 2.8
+htop (guessed) : 2.2.0 ==> 3.0.0beta5
+i2p : 0.9.42 ==> 0.9.43
+i386-elf-binutils (guessed) : 2.32 ==> 2.33.1
+i386-elf-gdb (guessed) : 8.3 ==> 8.3.1
+igv : 2.5.3 ==> 9
+ilmbase (guessed) : 2.3.0 ==> 2.4.0
+imagemagick : 7.0.8-68 ==> 7.0.9-0
+imagemagick@6 : 6.9.10-66 ==> 6.9.10-69
+imapsync (guessed) : 1.921 ==> 1.945
+immortal (guessed) : 0.23.0 ==> 0.24.0
+infer (guessed) : 0.15.0 ==> 0.17.0
+influxdb : 1.7.7 ==> 1.7.8
+inform6 (guessed) : 6.33-6.12.1 ==> 6.34-6.12.2
+inlets (guessed) : 2.5.0 ==> 851a2492f240628e1
+innoextract (guessed) : 1.7 ==> 1.8
+inspircd : 2.0.27 ==> 3.4.0
+interactive-rebase-tool (guessed) : 1.1.0 ==> 20
+intercal (guessed) : 0.31 ==> 1.27
+io (guessed) : 2017.09.06 ==> 2019.05.22-alpha
+ios-class-guard (guessed) : 0.8 ==> 3.5
+ios-deploy (guessed) : 1.9.4 ==> 1.10.0-beta.3
+ios-sim (guessed) : 8.0.2 ==> 9.0.0-dev.4
+ipbt : 20180824 ==> 20190601.d1519e0
+ipopt (guessed) : 3.12.13 ==> 3.13.0
+ipython (guessed) : 7.8.0 ==> 7.9.0
+ircd-hybrid : 8.2.24 ==> 8.2.26
+irrtoolset (guessed) : 5.0.1 ==> 16667_base
+istioctl (guessed) : 1.3.3 ==> 1.4.0-beta.0
+itex2mml : 1.5.7 ==> 1.6.0
+itk (guessed) : 4.13.2 ==> 5.1b01
+javacc (guessed) : 7.0.4 ==> 60_61_merge
+jdnssec-tools (guessed) : 0.15 ==> 0.16
+jenkins-job-builder : 2.10.0 ==> 3.0.2
+jetty-runner : 9.4.15.v20190215 ==> 9.4.22.v20191022
+jnethack (guessed) : 3.4.3-0.11 ==> 3.6.2
+jrnl (guessed) : 1.9.8 ==> 2.1-beta4
+jsdoc3 (guessed) : 3.6.3 ==> 4.0.0-dev.5
+juise (guessed) : 0.8.0 ==> 0.9.0
+juju (guessed) : 2.6.9 ==> 2.7-beta1
+kafka : 2.3.0 ==> 2.3.1
+khard (guessed) : 0.13.0 ==> 0.15.0
+kibana (guessed) : 6.8.3 ==> 7.4.1
+knot : 2.8.4 ==> 2.9.0
+knot-resolver : 3.2.1 ==> 4.2.2
+kobalt (guessed) : 1.0.125 ==> 1.0.128
+kops (guessed) : 1.14.0 ==> 1.15.0-beta.1
+ktoblzcheck : 1.49 ==> 1.50
+kubeprod (guessed) : 1.3.4 ==> 1.3.5
+kubernetes-helm (guessed) : 2.15.1 ==> 3.0.0-beta.5
+kubernetes-service-catalog-client (guessed) : 0.2.2 ==> 0.3.0-beta.1
+kumo (guessed) : 1.17 ==> 1.22
+kustomize (guessed) : 3.2.1 ==> 3.3.1
+l-smash (guessed) : 2.9.1 ==> 2.14.5
+latexml (guessed) : 0.8.4 ==> 1.0.7
+ldc : 1.17.0 ==> 1.18.0
+ledger (guessed) : 3.1.3 ==> 2006
+libbladerf (guessed) : 2018.08 ==> 2019.07
+libcouchbase (guessed) : 2.10.4 ==> 3.0.0-beta.1
+libdnet (guessed) : 1.12 ==> 2001-Oct-11
+libdrawtext (guessed) : 0.4 ==> 0.5
+libewf (guessed) : 20140608 ==> 20171104
+libfabric (guessed) : 1.8.1 ==> 1.9.0rc1
+libfixbuf : 2.3.1 ==> 2.4.0
+libgda (guessed) : 5.2.9 ==> 5.90.1
+libgdata (guessed) : 0.16.1 ==> 0.17.11
+libgr (guessed) : 0.37.0 ==> 0.42.0
+libinfinity : 0.6.8 ==> 0.7.1
+liblas (guessed) : 1.8.1 ==> 20071229
+liblinear (guessed) : 2.30 ==> 230
+liblo (guessed) : 0.29 ==> 0.30
+liblwgeom : 2.5.2 ==> 3.0.0
+libmicrohttpd (guessed) : 0.9.63 ==> 0.9.67
+libmp3splt (guessed) : 0.9.2 ==> 2.6.2
+libmypaint (guessed) : 1.4.0 ==> 2.0.0-alpha.2
+libngspice (guessed) : 28 ==> 31.3
+libowfat : 0.31 ==> 0.32
+libp11 (guessed) : 0.4.10 ==> 11-0.4.10
+libplctag : 1.6.3 ==> 2.0.26
+libqalculate (guessed) : 3.4.0 ==> 3.5.0a
+libre : 0.6.0 ==> 0.6.1
+libressl : 2.9.2 ==> 3.0.2.
+libslax (guessed) : 0.22.1 ==> 2
+libsodium (guessed) : 1.0.18 ==> 1.0.18-RELEASE
+libspiro (guessed) : 0.5.20150702 ==> 20190731
+libssh (guessed) : 0.9.0 ==> 0.9.1
+libtommath (guessed) : 1.1.0 ==> 1.2.0
+libtrng : 4.20 ==> 4.22
+libuv (guessed) : 1.31.0 ==> 1.33.1
+libvncserver (guessed) : 0.9.12 ==> 11VNC_0_9_12
+libvterm : 0.1.1 ==> 726
+libxkbcommon (guessed) : 0.8.4 ==> 0.9.1
+libxml++ (guessed) : 2.40.1 ==> 3.0.1
+libzt (guessed) : 1.3.1 ==> 1.3.1-hb1
+lincity-ng (guessed) : 2.0 ==> 2.9-beta
+link-grammar : 5.6.2 ==> 5.7.0
+little-cms (guessed) : 1.19 ==> 2.9
+lizard (guessed) : 2.0 ==> 132
+lnav (guessed) : 0.8.5 ==> 915e43f7366ef361b465
+log4c (guessed) : 1.2.4 ==> 4c_1_2_4
+logstash (guessed) : 7.4.1 ==> 2203
+logtalk (guessed) : 3.31.0 ==> 3310stable
+luajit (guessed) : 2.0.5 ==> 2.1.0-beta3
+macvim (guessed) : 8.1-159 ==> 159
+mahout (guessed) : 0.13.0 ==> 1.0
+makepkg (guessed) : 5.0.2 ==> 5.2.0
+mame (guessed) : 0.214 ==> 0214
+marathon-swift (guessed) : 1.0.1 ==> 3.3.0
+mariadb : 10.4.6 ==> 10.4.8
+mariadb@10.2 : 10.2.25 ==> 10.2.27
+masscan (guessed) : 1.0.5 ==> 2
+mawk : 1.3.4-20190203 ==> 1.3.4-20190203.tgz">mawk-1.3.4-20190203
+mbedtls : 2.16.2 ==> 2.16.3
+menhir : 20190626 ==> 20190924
+mercurial : 5.1.1 ==> 5.1.2
+mesa (guessed) : 19.1.7 ==> 20090313
+meson-internal (guessed) : 0.46.1 ==> 0.52.0
+metabase : 0.32.10 ==> 0.33.4
+metricbeat (guessed) : 6.8.4 ==> 7.4.1
+mftrace (guessed) : 1.2.19 ==> 1.2.20
+mgba : 0.7.3 ==> 0.8
+midgard2 (guessed) : 12.09 ==> 12.09.1
+midnight-commander : 4.8.22 ==> 4.8.23
+mikutter (guessed) : 3.8.8 ==> 3.9.6
+miller (guessed) : 5.6.0 ==> 5.6.2
+minetest : 5.0.1 ==> 5.1.0
+minidjvu (guessed) : 0.8 ==> 0.33
+miniupnpc : 2.1 ==> 2.1.20190824
+mkl-dnn (guessed) : 1.1 ==> 1.1.1
+mkvtomp4 (guessed) : 1.3 ==> 4-v1.3
+mldonkey (guessed) : 3.1.6 ==> 3-04rc1
+moarvm (guessed) : 2019.07.1 ==> 9999-please-do-not-use-these
+modules : 4.3.0 ==> 4.3.1
+molten-vk (guessed) : 1.0.34 ==> 1.0.37-Metal-3.0
+mongo-orchestration (guessed) : 0.6.11 ==> 0.6.12
+mongrel2 (guessed) : 1.11.0 ==> 1.12.2.old
+mozjpeg (guessed) : 3.3.1 ==> 8d
+mp3unicode (guessed) : 1.2.1 ==> 3unicode-1.2.1
+mpc : 0.31 ==> 0.32
+mruby (guessed) : 2.0.1 ==> 2.1.0-rc
+mupen64plus (guessed) : 2.5 ==> 2.5.9
+mypy (guessed) : 0.730 ==> 0.740
+mysql-connector-c++ : 8.0.17 ==> 8.0.18
+n (guessed) : 6.0.1 ==> 6.1.0
+nave (guessed) : 2.4.2 ==> 3.2.0
+ncmpc : 0.30 ==> 0.35
+net-snmp (guessed) : 5.8 ==> 5.8.1
+netcdf : 4.6.3 ==> 4.7.2
+nethack (guessed) : 3.6.2 ==> 3.6.3_WIP
+nethacked (guessed) : 1.0 ==> 343
+netlify-cli (guessed) : 2.19.3 ==> 2.19.4
+nettle (guessed) : 3.4.1 ==> 3.5.1
+nginx : 1.17.3 ==> 1.17.5
+ngspice (guessed) : 30 ==> 31.3
+nifi-registry : 0.4.0 ==> 0.5.0
+nim (guessed) : 1.0.0 ==> 1.0.2
+node (guessed) : 12.12.0 ==> 13.0.1
+nomad : 0.9.6 ==> 0.10.0
+ntfs-3g (guessed) : 2017.3.23 ==> 20070925
+nudoku (guessed) : 1.0.0 ==> 2.0.0
+nuget : 5.3.0 ==> 20181221
+numpy (guessed) : 1.17.2 ==> 1.17.3
+nushell (guessed) : 0.2.0 ==> 0.4.0
+nwchem (guessed) : 6.8.1 ==> 22_2018
+nzbget (guessed) : 21.0 ==> 21.1-r2311
+ocaml : 4.08.1 ==> 4.09.0
+oclgrind (guessed) : 18.3 ==> 32
+ocproxy (guessed) : 1.60 ==> 1.20121120160713
+offlineimap (guessed) : 7.2.4 ==> 7.3.0
+olsrd : 0.9.0.3 ==> 0.9.6.1
+onioncat : 0.2.2.r578 ==> 0.2.8.tar.gz" title="onioncat-0.2.8
+open-babel (guessed) : 2.4.1 ==> 3-0-0
+open-cobol (guessed) : 1.1 ==> 2.0
+open-completion (guessed) : 1.0.3 ==> 1.0.4
+open-image-denoise (guessed) : 1.0.0 ==> 1.1.0
+open-scene-graph (guessed) : 3.6.3 ==> 3.6.4
+opencbm (guessed) : 0.4.99.99 ==> 20110106-2128
+openclonk (guessed) : 7.0 ==> 8.1
+openexr (guessed) : 2.3.0 ==> 2.4.0
+openmsx (guessed) : 0.15.0 ==> 1_0_5_0
+openrtsp : 2018.10.17 ==> 2019.10.20
+opentsdb : 2.3.1 ==> 2.4.0
+orc : 0.4.29 ==> 0.4.30
+osc (guessed) : 0.165.2 ==> 0.166.0
+osm2pgsql (guessed) : 0.96.0 ==> 1.2.0
+ospray (guessed) : 1.8.5 ==> 2.0.0-alpha
+osqp (guessed) : 0.6.0 ==> 0.6.0.dev20
+pachi (guessed) : 11.00 ==> 12.40
+pandoc-citeproc : 0.16.2 ==> 0.16.3
+pangomm (guessed) : 2.42.0 ==> 2.43.1
+parallel (guessed) : 20190922 ==> 20191022
+parquet-tools (guessed) : 1.10.0 ==> 1.11.0
+partio (guessed) : 1.1.0 ==> 1.10.1
+pc6001vx (guessed) : 3.1.3 ==> 3.3.0
+pdns : 4.1.11 ==> 4.2.0
+percona-toolkit : 3.0.13 ==> 3.1.0
+perl-build (guessed) : 1.25 ==> 1.30
+petsc : 3.12.0 ==> 3.12.1
+pgbouncer : 1.10.0 ==> 1_12_0
+pgpool-ii : 3.7.5 ==> 4.0.6
+phoronix-test-suite (guessed) : 9.0.1 ==> 9.2.0m1
+pianobar (guessed) : 2018.06.22 ==> 2019.02.14
+pilosa (guessed) : 1.4.0 ==> 2.0.0-alpha.1
+pinboard-notes-backup (guessed) : 1.0.4.1 ==> 1.0.5
+pipes-sh (guessed) : 1.3.0 ==> 2014-02-21
+polipo (guessed) : 1.1.1 ==> 20140107
+poppler : 0.81.0 ==> 0.82.0
+portaudio (guessed) : 19.6.0 ==> 190600_20161030
+postgis : 2.5.3 ==> 3.0.0
+postgresql : 11.5 ==> 12
+predictionio (guessed) : 0.9.6 ==> 0.14.0
+premake (guessed) : 4.4-beta5 ==> 5.0.0-alpha14
+procs (guessed) : 0.8.11 ==> 0.8.12
+psqlodbc : 10.03.0000 ==> 12.00.0000
+pugixml (guessed) : 1.9 ==> 1.10
+purescript (guessed) : 0.12.5 ==> 0.13.4
+pwntools (guessed) : 3.12.2 ==> 3.13.0beta0
+pwsafe (guessed) : 0.2.0 ==> 1_23_2004
+py2cairo (guessed) : 1.18.1 ==> 1.18.2
+py3cairo (guessed) : 1.18.1 ==> 1.18.2
+pyenv-virtualenv : 1.1.3 ==> 1.1.5
+pygobject (guessed) : 2.28.7 ==> 3.34.0
+pyinvoke (guessed) : 1.2.0 ==> 414
+pyqt : 5.10.1 ==> 5.13.1
+python : 3.7.4 ==> 3.8.0
+q (guessed) : 1.7.4 ==> 2.0.2_test1
+qalculate-gtk (guessed) : 3.4.0 ==> 3.5.0
+qca (guessed) : 2.2.1 ==> 4.5
+qcachegrind : 18.04.3 ==> 19.08.2
+qjackctl : 0.5.3 ==> 0.6.0
+qscintilla2 : 2.10.4 ==> 2.11.2
+qt (guessed) : 5.13.1 ==> 5.14.0-beta2
+quex : 0.69.3 ==> 0.70.0
+qxmpp (guessed) : 1.0.0 ==> 1.1.0
+r3 (guessed) : 1.3.4 ==> 15M
+rabbitmq-c (guessed) : 0.9.0 ==> 0.9.0-master
+radare2 (guessed) : 3.6.0 ==> 3.9.0
+raine : 0.64.15 ==> 0.64.16
+rancher-cli : 2.3.0 ==> 2.3.1
+rdesktop (guessed) : 1.8.6 ==> 1.9.0
+re-flex (guessed) : 1.4.3 ==> 1.4.4
+recon-ng (guessed) : 5.0.1 ==> 5.0.3
+redpen (guessed) : 1.10.1 ==> 2.0
+redsocks (guessed) : 0.4 ==> 0.5
+regina-rexx (guessed) : 3.9.1 ==> 3.9.3
+remake : 4.2.1-1.4 ==> 4.2%2Bdbg-1.4
+reminiscence : 0.3.7 ==> 0.4.4
+repo (guessed) : 1.13.7 ==> 1.13.7.1
+residualvm (guessed) : 0.2.1 ==> 0.4.0git
+riak (guessed) : 2.2.3 ==> 2.9.0p4
+rke (guessed) : 0.3.1 ==> 0.3.2-rc3
+rlwrap (guessed) : 0.43 ==> 0.43.0-snapshot.july19.2016
+rocksdb (guessed) : 6.1.2 ==> 6.3.6
+rom-tools (guessed) : 0.214 ==> 0214
+root (guessed) : 6.18.04 ==> 6-19-01
+rp (guessed) : 1.0 ==> 2-beta
+rpm : 4.14.2.1 ==> 4.15.0
+rrdtool (guessed) : 1.7.0 ==> 1.7.2
+rswift (guessed) : 5.0.0 ==> 5.1.0
+s2geometry (guessed) : 0.9.0 ==> 0.9.0-2019.03.04.00
+s3-backer : 1.5.2 ==> 1.5.4
+s3ql (guessed) : 3.2 ==> 4
+salt (guessed) : 2019.2.1 ==> 2019.8
+scc (guessed) : 2.10.0 ==> 928286b8064e2cf6dd35
+sceptre (guessed) : 2.1.5 ==> 2.2.1
+scummvm : 2.0.0 ==> 2.1.0
+scummvm-tools : 2.0.0 ==> 2.1.0
+sdb (guessed) : 1.4.0 ==> 1.4.1
+sdedit (guessed) : 4.01 ==> 4.2
+securefs (guessed) : 0.8.3 ==> 0.10
+seexpr (guessed) : 2.11 ==> 5
+ser2net : 3.5.1 ==> 4.0
+sfk : 1.9.2.0 ==> 1.9.5.2
+shfmt (guessed) : 2.6.4 ==> 3.0.0-alpha3
+simh (guessed) : 3.10 ==> 4.0-devel
+simple-scan (guessed) : 3.34.1 ==> 3.35.1
+sjk (guessed) : 0.10.1 ==> 0.14
+skaffold (guessed) : 0.40.0 ==> 0.41.0
+sleuthkit : 4.6.7 ==> 4.7.0
+snapraid (guessed) : 11.3 ==> 11.4-rc
+snort : 2.9.12 ==> 2.9.15
+sonobuoy (guessed) : 0.16.1 ==> 1.11.5-prerelease.1
+sparse (guessed) : 0.6.0 ==> 0.6.1
+spatialindex (guessed) : 1.9.0 ==> 1.9.3
+sphinx (guessed) : 2.2.11 ==> 2.3.2-beta
+spigot : 20190105 ==> 20190901.1791406
+spirv-cross (guessed) : 2019-07-26 ==> 2019-09-06
+spirv-tools (guessed) : 2019.2 ==> 2019.4
+spotbugs (guessed) : 3.1.12 ==> 4.0.0_beta4
+sql-translator (guessed) : 0.11024 ==> 1.60
+sqlite : 3.29.0 ==> 3.30.1
+sqlparse (guessed) : 0.2.4 ==> 0.3.0
+sratoolkit (guessed) : 2.9.3 ==> 2.10.0
+srclib (guessed) : 0.2.5 ==> 20003
+ssh-copy-id (guessed) : 8.0p1 ==> 8_1_P1
+remote: Repository not found.
+remote: Repository not found.
+remote: Repository not found.
+sslscan (guessed) : 1.11.13 ==> 1.11.13-rbsec
+sslyze (guessed) : 1.4.3 ==> 2.1.4
+starship (guessed) : 0.25.1 ==> 0.25.2
+statik (guessed) : 0.22.2 ==> 0.23.0
+stella (guessed) : 6.0.2 ==> 6.1-beta2
+stellar-core (guessed) : 11.2.0 ==> 12.1.0
+step (guessed) : 0.13.3 ==> 0.14.0-rc.1
+stone-soup : 0.23.2 ==> 0.24.0
+storm : 1.2.3 ==> 2.0.0
+stormssh (guessed) : 0.7.0 ==> 1.6.7
+sundials : 4.1.0 ==> 5.0.0
+supertux (guessed) : 0.5.1 ==> 2-grumbel
+suricata : 4.0.5 ==> 5.0.0
+swift : 4.2.1 ==> 5.1.1
+switch-lan-play (guessed) : 0.1.0 ==> 0.2.1
+sync_gateway (guessed) : 2.6.0 ==> 4
+sysbench (guessed) : 1.0.17 ==> 1.0.18
+systemc : 2.3.2 ==> 2.3.3
+taglib (guessed) : 1.11.1 ==> 1.12-beta-1
+tarantool (guessed) : 2.2.1.1 ==> 2.3.0
+tarsnap (guessed) : 1.0.39 ==> 1.0.39-deb-2
+task (guessed) : 2.5.1 ==> 251ToMaster
+taskd (guessed) : 1.1.0 ==> 110ToMaster
+tasksh (guessed) : 1.2.0 ==> 120ToMaster
+tbox (guessed) : 1.6.3 ==> 1.6.4
+tcl-tk (guessed) : 8.6.9 ==> 8.7a1
+tcpflow (guessed) : 1.5.0 ==> 1.5.2
+terminator (guessed) : 0.98 ==> 1.91
+terragrunt (guessed) : 0.20.4 ==> 0.21.1
+tesseract (guessed) : 4.1.0 ==> 5.0.0-alpha
+testbottest (guessed) : 0.1 ==> 2.1.15
+testssl (guessed) : 2.9.5-8 ==> 3.0rc5
+texmath (guessed) : 0.11.2.2 ==> 0.11.3
+tgui (guessed) : 0.8.5 ==> 0.8.6
+theora (guessed) : 1.1.1 ==> 1.2.0alpha1
+thrift (guessed) : 0.12.0 ==> 0.13.0
+tidy-html5 (guessed) : 5.6.0 ==> 5.7.28
+tiger-vnc (guessed) : 1.9.0 ==> 1.9.90
+timewarrior (guessed) : 1.1.1 ==> 111ToMaster
+tin : 2.4.2 ==> 2.4.3
+tiny-fugue (guessed) : 5.0b8 ==> 5.0
+tmux (guessed) : 2.9a ==> 3.0
+todo-txt (guessed) : 2.11.0 ==> 31-fix
+todoman (guessed) : 3.5.0 ==> 3.7.0
+tox : 3.13.2 ==> 3.14.0
+traildb (guessed) : 0.6 ==> 1.1
+treefrog (guessed) : 1.24.0 ==> 1.26.0
+trezor-agent (guessed) : 0.10.0 ==> 0.13.1
+tvnamer (guessed) : 2.5 ==> 3.0.0
+twarc (guessed) : 1.7.3 ==> 1.7.4
+txr : 220 ==> 225
+typescript (guessed) : 3.6.4 ==> 3.7-rc
+ucon64 : 2.1.0 ==> 2.2.0
+uhd : 3.14.1.0 ==> 3.14.1.1
+unicorn (guessed) : 1.0.1 ==> 1.0.2-rc1
+unravel (guessed) : 0.2.2 ==> 0.3.0-beta.2
+remote: Repository not found.
+remote: Repository not found.
+remote: Repository not found.
+upscaledb (guessed) : 2.2.0 ==> 2.2.2
+urbit (guessed) : 0.7.4 ==> 2019.10.16
+urdfdom (guessed) : 1.0.3 ==> 1.7.1
+urweb (guessed) : 20180616 ==> 20190217
+v2ray-plugin (guessed) : 1.2.0 ==> 20190114
+v8 : 7.7.299.13 ==> 7.8.279.17
+vagrant-completion (guessed) : 2.2.5 ==> 2.2.6
+vapoursynth (guessed) : 47.2 ==> 48-RC6
+vapoursynth-imwri (guessed) : 47.2 ==> 48-RC6
+vapoursynth-ocr (guessed) : 47.2 ==> 48-RC6
+vapoursynth-sub (guessed) : 47.2 ==> 48-RC6
+velero (guessed) : 1.1.0 ==> 1.2.0-beta.1
+vgmstream (guessed) : r1050-2441-gd64c3872 ==> 1050-2574-g246222dd
+vim (guessed) : 8.1.2200 ==> 8.1.2216
+vit (guessed) : 1.3 ==> 2.0.0
+vnu (guessed) : 18.11.5 ==> 20150216
+vowpal-wabbit (guessed) : 8.7.0 ==> 8.7.0.post1_with_python
+vramsteg (guessed) : 1.1.0 ==> 110ToMaster
+vte (guessed) : 0.28.2 ==> 0.59.0
+vte3 (guessed) : 0.58.2 ==> 0.59.0
+w3m (guessed) : 0.5.3 ==> 0.5.3+git20190105
+wal2json (guessed) : 1.0 ==> 2json_1_0
+wdc (guessed) : 1.0.1 ==> 1.1.5
+webpack (guessed) : 4.41.2 ==> 5.0.0-beta.1
+websocat (guessed) : 1.5.0 ==> 1_28
+wesnoth (guessed) : 1.12.6 ==> 1.15.2
+wildfly-as : 17.0.0.Final ==> 18.0.0.Final
+wiredtiger : 3.2.0 ==> 3.2.1
+wireguard-go : 0.0.20190908 ==> 0.0.20191012
+wiremock-standalone (guessed) : 2.25.0 ==> 2.25.1
+wolfssl : 4.1.0 ==> 4.2.0
+wpscan (guessed) : 2.9.4 ==> 3.7.3
+wxmac : 3.0.4 ==> 3.1.2
+xboard (guessed) : 4.9.1 ==> 20140119
+xmp (guessed) : 4.1.0 ==> 4.1.4
+xmrig : 2.14.4 ==> 4.3.1
+xrootd : 4.10.1 ==> 4.11.0
+xtensor (guessed) : 0.20.8 ==> 0.20.10
+yacas (guessed) : 1.6.1 ==> 1.8.0
+yarn-completion (guessed) : 0.8.0 ==> 0.15.0
+yle-dl (guessed) : 20190614 ==> 20191022
+yuicompressor (guessed) : 2.4.8 ==> 43
+z (guessed) : 1.9 ==> 1.11
+zabbix-cli (guessed) : 2.1.1 ==> 2.1.1-1
+zbackup (guessed) : 1.4.4 ==> 1.5-alpha
+zbar (guessed) : 0.10 ==> 1.3.1
+zeromq (guessed) : 4.3.2 ==> 4.3.2-win
+zita-convolver : 4.0.0 ==> 4.0.3
+zpython (guessed) : 00-5.0.5 ==> 5.7.1
+zrepl (guessed) : 0.1.1 ==> 0.2.0
+zydis (guessed) : 2.0.3 ==> 3.0.0
