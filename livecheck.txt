@@ -1,658 +1,985 @@
 abook (guessed) : 0.5.6 ==> 0_6_1
-abyss (guessed) : 2.2.1 ==> 2014-submission
-ace (guessed) : 6.5.6 ==> 20040122
-ack (guessed) : 3.1.2 ==> 3.1.3
+abyss (guessed) : 2.2.3 ==> 2014-submission
+ace (guessed) : 6.5.8 ==> 20040122
 acmetool (guessed) : 0.0.67 ==> 0.2.1
+Warning: activemq version is greater than the upstream version
 advancemenu (guessed) : 2.9 ==> 3.9
+Warning: afl-fuzz version is greater than the upstream version
 agda (guessed) : 2.6.0.1 ==> 08-2
-agedu : 20190630 ==> 20190630.66cb14d
+agedu : 20200206 ==> 20200206.963bc9d
 akka (guessed) : 2.4.20 ==> 14v12p01
-allegro (guessed) : 5.2.5.0 ==> 4418
+allegro (guessed) : 5.2.6.0 ==> 4418
+fatal: repository 'https://github.com/vanhauser-thc/THC-Archive/raw/master/Tools/amap-5.4.tar.gz.git/' not found
+Warning: amap (guessed) version is greater than the upstream version
 ampl-mp (guessed) : 3.1.0 ==> 20141208
-ansible : 2.8.5 ==> 2.8.6
-aom (guessed) : 1.0.0 ==> 1.0.0-errata1
-apache-arrow (guessed) : 0.15.0 ==> 0.15.1
-apache-arrow-glib (guessed) : 0.15.0 ==> 0.15.1
-apache-brooklyn-cli (guessed) : 0.12.0 ==> 1.0.0-M1
-apache-spark (guessed) : 2.4.4 ==> 3.0.0-preview
+ansible : 2.9.4 ==> 2.9.5
+Warning: anttweakbar (guessed) version is greater than the upstream version
+aom (guessed) : 1.0.0 ==> 1.0.0-errata1-avif
+apache-brooklyn-cli (guessed) : 0.12.0 ==> 1.0.0-rc2
+apache-flink (guessed) : 1.9.2 ==> 1.10.0
+apache-spark (guessed) : 2.4.5 ==> 3.0.0-preview2
+Warning: apache-zeppelin (guessed) version is greater than the upstream version
+Warning: apcupsd (guessed) version is greater than the upstream version
 apgdiff (guessed) : 2.4 ==> 2.5.0-alpha.2
-apm-server (guessed) : 6.2.4 ==> 7.4.1
 appledoc (guessed) : 2.2.1 ==> 3.0exp1
 appscale-tools (guessed) : 3.5.3 ==> 3.8.1
-appstream-glib (guessed) : 0.7.15 ==> 0_7_16
-arangodb (guessed) : 3.5.0 ==> 3.5.1.1
-aravis (guessed) : 0.6.4 ==> 0.7.2
+aqbanking : 5.8.2 ==> 6.1.0
+Warning: arabica (guessed) version is greater than the upstream version
+arangodb (guessed) : 3.6.0 ==> 3.6.1
+aravis (guessed) : 0.6.4 ==> 0.7.3
 archey (guessed) : 1.6.0 ==> 1.6.0-pr
-archi-steam-farm (guessed) : 2.3.2.0 ==> 4.1.0.2
-arduino-cli (guessed) : 0.5.0 ==> 1.1.0
-arm-linux-gnueabihf-binutils (guessed) : 2.32 ==> 2.33.1
-artifactory : 6.10.3 ==> 6.13.1
+archi-steam-farm (guessed) : 2.3.2.0 ==> 4.1.2.1
+arduino-cli (guessed) : 0.7.2 ==> 2
+Warning: argtable (guessed) version is greater than the upstream version
+arm-linux-gnueabihf-binutils (guessed) : 2.33.1 ==> 2.34
 arx (guessed) : 0.3.2 ==> 1
 arx-libertatis (guessed) : 1.1.2 ==> 1.21
-asciidoctorj (guessed) : 2.1.0 ==> 3-1.5.0-alpha.8.1
-asio : 1.12.2 ==> 1.14.0
-assimp (guessed) : 4.1.0 ==> 5.0.0
+asciidoctorj (guessed) : 2.2.0 ==> 3-1.5.0-alpha.8.1
+Warning: asciitex (guessed) version is greater than the upstream version
+astrometry-net (guessed) : 0.78 ==> 0.79
+Warning: asymptote (guessed) version is greater than the upstream version
+Warning: atari800 version is greater than the upstream version
 atk (guessed) : 2.34.1 ==> 2.35.1
 atkmm (guessed) : 2.28.0 ==> 2.29.1
-atlassian-cli : 8.5.0 ==> 9.0.0
-audacious (guessed) : 3.9 ==> 3.10.1-gtk3
-auditbeat (guessed) : 6.8.4 ==> 7.4.1
+atlassian-cli : 9.1.0 ==> 9.1.1
+ats2-postiats : 0.3.13 ==> 0.4.0
+audacious (guessed) : 3.10.1 ==> 4.0-beta1
+auditbeat (guessed) : 6.8.6 ==> 7.6.0
+Warning: automysqlbackup (guessed) version is greater than the upstream version
+Warning: autopano-sift-c (guessed) version is greater than the upstream version
 autopsy (guessed) : 2.24 ==> 4.3.0
-aws-elasticbeanstalk : 3.14.6 ==> 3.15.3
-aws-sdk-cpp (guessed) : 1.7.210 ==> 1.7.211
-awscli : 1.16.260 ==> 1.16.266
-axel (guessed) : 2.17.3 ==> 2.17.6
-azure-cli (guessed) : 2.0.75 ==> 3.1.5
-azure-storage-cpp (guessed) : 6.1.0 ==> 7.0.0
-babeld : 1.8.5 ==> 1.9.1
-babl : 0.1.68 ==> 0.1.72
+aws-elasticbeanstalk : 3.17.0 ==> 3.17.1
+aws-sdk-cpp (guessed) : 1.7.270 ==> 1.7.274
+azure-cli (guessed) : 2.0.81 ==> 7048
+azure-storage-cpp (guessed) : 6.1.0 ==> 7.1.0
+b3sum (guessed) : 0.1.3 ==> 0.2.0
+babl : 0.1.68 ==> 0.1.74
 bagit (guessed) : 4.12.3 ==> 5.2.0
-bareos-client (guessed) : 17.2.7 ==> 18.4.1
-baresip : 0.5.10 ==> 0.6.4
-bash-completion@2 : 2.8 ==> 2.9
-bashdb : 4.4-0.94 ==> 5.0-1.1.1
-bazelisk (guessed) : 1.0 ==> 1.1.0
+bareos-client (guessed) : 17.2.7 ==> 20.0.0-pre
+Warning: bash version is greater than the upstream version
+Warning: bbe (guessed) version is greater than the upstream version
 bde (guessed) : 3.0.0.0 ==> 3.39.0.0
 beagle (guessed) : 3.1.2 ==> 2010
-benthos (guessed) : 3.2.0 ==> 3.3.1
+bear (guessed) : 2.4.2 ==> 2.4.3
+berglas (guessed) : 0.5.0 ==> 0.5.1
 bgpq3 (guessed) : 0.1.35 ==> 1_0_4
-bibtexconv (guessed) : 1.1.13 ==> 1.1.18
-bibutils : 6.7 ==> 6.8
+bibtexconv (guessed) : 1.1.18 ==> 1.1.19
 bigloo : 4.3e ==> 4.3f
-binutils (guessed) : 2.32 ==> 2.33.1
-bitcoin (guessed) : 0.18.1 ==> 0.19.0rc1
+bison (guessed) : 3.5.1 ==> 3.5.2
+Warning: bitchx (guessed) version is greater than the upstream version
+bitcoin (guessed) : 0.19.0.1 ==> 0.19.1rc2
 bitlbee : 3.5.1 ==> 3.6
+bitrise (guessed) : 1.38.0 ==> 1.39.0
+Warning: bittwist (guessed) version is greater than the upstream version
+black (guessed) : 19.10b0 ==> 19.10
 blazegraph (guessed) : 2.1.4 ==> 2.1.5
+blink1 (guessed) : 2.0.5 ==> 2.1.0
 blitz (guessed) : 0.10 ==> 1.0.2
-bluepill : 5.0.0 ==> 5.1.0
-borgmatic (guessed) : 1.3.23 ==> 1.4.0
+bluepill : 5.1.1 ==> 5.1.8
+bmake : 20181221 ==> 20200212
+bochs (guessed) : 2.6.9 ==> 2.6.11
+Warning: bogofilter (guessed) version is greater than the upstream version
+bonnie++ : 1.97.3 ==> 1.98
+bowtie2 (guessed) : 2.3.5.1 ==> 2.4.0-beta2
 brew-gem (guessed) : 1.0.0 ==> 2.2
-buildkit (guessed) : 0.6.2 ==> 1.1.3-experimental
-bup (guessed) : 0.29.2 ==> 0.30
-caddy (guessed) : 1.0.3 ==> 2.0.0-beta6
-calabash (guessed) : 1.1.24-98 ==> 1.1.29-99
-calicoctl (guessed) : 3.10.0 ==> 3.11.0-0.dev
-carla (guessed) : 2.0.0 ==> 2.1-b1-test1
-cassandra-reaper (guessed) : 1.3.0 ==> 1.4.7
-ccls (guessed) : 0.20190823.3 ==> 0.20190823.4
-cereal (guessed) : 1.2.2 ==> 1.3.0
+Warning: briss (guessed) version is greater than the upstream version
+fatal: repository 'https://gist.github.com/defunkt/318247/raw/7720fc969d58a9bfdc74d71deaa15c1eb7582fc1/browser.git/' not found
+buildkit (guessed) : 0.6.3 ==> 1.1.4-experimental
+remote: Not Found
+fatal: repository 'https://github.com/simsong/bulk_extractor/wiki.git/' not found
+bullet (guessed) : 2.88 ==> 2.89
+bumpversion (guessed) : 0.5.11 ==> 1.0.0
+bundletool (guessed) : 0.12.0 ==> 0.13.0
+byacc : 20191103 ==> 20191125
+Warning: bzrtools (guessed) version is greater than the upstream version
+bzt : 1.14.0 ==> 1.14.1
+fatal: repository 'https://taku910.github.io/cabocha.git/' not found
+cacli (guessed) : 1.2.29 ==> 1.04
+caddy (guessed) : 1.0.4 ==> 2.0.0-beta12
+calabash (guessed) : 1.1.24-98 ==> 1.1.30-99
+calicoctl (guessed) : 3.12.0 ==> 3.13.0-0.dev
+Warning: camellia (guessed) version is greater than the upstream version
+camlp5 : 7.10 ==> 7.11
+carla (guessed) : 2.0.0 ==> 2.1-rc1
+carrot2 (guessed) : 3.16.2 ==> 4.0.0-beta2
+cartridge-cli (guessed) : 1.2.0 ==> 1.4.0
+cassandra-reaper (guessed) : 1.3.0 ==> 2.0.2
+catch2 (guessed) : 2.11.1 ==> 3.0.0-preview1
+Warning: ccd2iso (guessed) version is greater than the upstream version
+ccm : 3.1.4 ==> 3.1.5
+Warning: ccrypt (guessed) version is greater than the upstream version
+cdogs-sdl : 0.6.9 ==> 0.7.3
+Warning: cdrdao (guessed) version is greater than the upstream version
+Warning: cdrtools (guessed) version is greater than the upstream version
 cern-ndiff (guessed) : 5.05.01 ==> 060411-10AM
-cfitsio : 3.450 ==> 3.470
-cfn-lint (guessed) : 0.24.5 ==> 0.24.6
-cgal (guessed) : 4.14.1 ==> 5.0-beta1
-chakra (guessed) : 1.11.13 ==> 1.11.14
-charm-tools : 2.2.3 ==> 2.7.2
-cheat (guessed) : 2.3.1 ==> 3.0.0
+certbot (guessed) : 1.1.0 ==> 1.2.0
+cgns (guessed) : 3.4.0 ==> 40
+Warning: chadwick (guessed) version is greater than the upstream version
+check_postgres : 2.24.0 ==> 2.25.0
 chocolate-doom (guessed) : 3.0.0 ==> 5
-cimg : 2.7.4 ==> 2.7.5
-citus (guessed) : 8.3.2 ==> 9.0.1
+Warning: cidrmerge (guessed) version is greater than the upstream version
+cimg : 2.8.3 ==> 2.8.4
+circleci (guessed) : 0.1.5879 ==> 0.1.6072
+ckan : 1.26.8 ==> 1.27.0
 clhep : 2.4.1.2 ==> 2.4.1.3
 clib (guessed) : 1.11.2 ==> 2.0.0-next.12
-cling : 0.5 ==> 0.6
-clojure-lsp (guessed) : 20190408 ==> 20191010T151127
-closure-compiler : 20190909 ==> 20190929
-clp (guessed) : 1.17.3 ==> 2002-11-05
-cockroach (guessed) : 19.1.5 ==> 201910231845_v19.2.0-rc.2
-coinutils (guessed) : 2.11.3 ==> 2002-11-05
+clojure-lsp (guessed) : 20190408 ==> 20200121T234305
+clojurescript : 1.10.520 ==> 1.10.597
+clozure-cl : 1.11.6 ==> 1.11.8
+clp (guessed) : 1.17.5 ==> 2002-11-05
+Warning: clpbar (guessed) version is greater than the upstream version
+Warning: cmigemo (guessed) version is greater than the upstream version
+Warning: cmu-pocketsphinx (guessed) version is greater than the upstream version
+Warning: cmu-sphinxbase (guessed) version is greater than the upstream version
+Warning: cmuclmtk (guessed) version is greater than the upstream version
+Warning: cntlm (guessed) version is greater than the upstream version
+cobalt (guessed) : 0.15.8 ==> 0.15.9
+cocoapods (guessed) : 1.8.4 ==> 1.9.0.beta.3
+coinutils (guessed) : 2.11.4 ==> 2002-11-05
+Warning: colortail (guessed) version is greater than the upstream version
+comby (guessed) : 0.12.0 ==> 0.13.1
+conan : 1.22.1 ==> 1.22.2
 concurrencykit (guessed) : 0.6.0 ==> 0.7.0
-coq : 8.10.0 ==> 8.10.1
+configen (guessed) : 1.1.0 ==> 1.1.1
+consul : 1.6.3 ==> 1.7.0
+Warning: contacts (guessed) version is greater than the upstream version
+convox (guessed) : 20200129210159 ==> 20200207161122-danone-nodejs10
 cosi (guessed) : 0.8.5 ==> 0.8.6
-couchdb (guessed) : 1.7.2 ==> 20110908
+cp2k (guessed) : 6.1 ==> 7.1.0
 cpanminus (guessed) : 1.9019 ==> 1.9022
-cppad : 20190200.3 ==> 20190200.5
+cpp-gsl (guessed) : 2.0.0 ==> 2.1.0
+cppad : 20200000.1 ==> 20200000.2
+Warning: cpptest (guessed) version is greater than the upstream version
+crc (guessed) : 1.4.0 ==> 1.5.0
 create-dmg (guessed) : 1.0.0.5 ==> 1.0.0.7
+credstash (guessed) : 1.16.1 ==> 1.16.2
+fatal: repository 'https://taku910.github.io/crfpp.git/' not found
+Warning: crunch (guessed) version is greater than the upstream version
 cryptominisat (guessed) : 5.6.8 ==> 2018
 cryptopp (guessed) : 8.1.0 ==> 8_2_0
-crystal (guessed) : 0.31.1 ==> 4
-css-crush (guessed) : 2.4.0 ==> 3.0.0-beta.5
+crystal (guessed) : 0.32.1 ==> 4
+crystal-icr (guessed) : 0.6.0 ==> 0.7.0
+css-crush (guessed) : 2.4.0 ==> 3.0.1
+Warning: csshx (guessed) version is greater than the upstream version
+csvq (guessed) : 1.12.4 ==> 1.12.4-pr.2
+csvtomd (guessed) : 0.2.1 ==> 0.3.0
+Warning: cunit (guessed) version is greater than the upstream version
 curaengine (guessed) : 15.04.6 ==> 15.06.03
-cypher-shell (guessed) : 1.1.12 ==> 4j-3.5.12
-dar : 2.5.16 ==> 2.6.6
-davmail (guessed) : 5.3.0 ==> 5.3.1
+Warning: daemonlogger (guessed) version is greater than the upstream version
+dar : 2.5.16 ==> 2.6.8
+dasm (guessed) : 2.20.11 ==> 2.20.12
+davmail (guessed) : 5.3.0 ==> 5.4.0
+db-vcs (guessed) : 1.0 ==> 1.1
 dbus (guessed) : 1.12.16 ==> 1.13.12
-deark : 1.5.2 ==> 1.5.3
-debianutils : 4.8.6.3 ==> 4.9
-dhall-bash (guessed) : 1.0.24 ==> 1.27.0
-dhall-json (guessed) : 1.5.0 ==> 1.27.0
-digdag : 0.9.39 ==> 0_10_before_merge_v0_9_38
+Warning: dcfldd (guessed) version is greater than the upstream version
+ddclient (guessed) : 3.9.0 ==> 3.9.1
+deark : 1.5.3 ==> 1.5.4
+deno (guessed) : 0.32.0 ==> 0.33.0
+fatal: repository 'https://github.com/Netflix/denominator/tree/v4.7.1/cli.git/' not found
+detekt (guessed) : 1.3.0 ==> 13.2
+devdash (guessed) : 0.2.0 ==> 0.3.0
+Warning: dex2jar (guessed) version is greater than the upstream version
+Warning: dfu-programmer (guessed) version is greater than the upstream version
+dhall-bash (guessed) : 1.0.25 ==> 1.29.0
+dhall-json (guessed) : 1.6.1 ==> 1.29.0
+dhall-lsp-server (guessed) : 1.0.4 ==> 1.29.0
+dialog : 1.3-20190808 ==> 1.3-20191210
+Warning: dict (guessed) version is greater than the upstream version
+diff-pdf (guessed) : 0.3 ==> 0.4.1
+diffoscope : 128 ==> 136
+digdag : 0.9.41 ==> 0_10_before_merge_v0_9_38
+Warning: dirac (guessed) version is greater than the upstream version
+discount : 2.2.4 ==> 2.2.6
 disktype (guessed) : 9 ==> 99-branchpoint
-dita-ot (guessed) : 3.3.4 ==> 19_stable
+dita-ot (guessed) : 3.4 ==> 19_stable
+Warning: djview4 (guessed) version is greater than the upstream version
 djvulibre (guessed) : 3.5.27 ==> 18n-mergepoint
-dlib (guessed) : 19.17 ==> 19.18
 dlite (guessed) : 1.1.5 ==> 2.0.0-beta9
-dmd (guessed) : 2.088.1 ==> 2.089.0-beta.2
-dnscontrol (guessed) : 2.9 ==> 5609e41703f05f4ad331
-dnsdist : 1.3.2 ==> 1.3.3
-docker-compose (guessed) : 1.24.1 ==> 1.25.0-rc2
-docker-compose-completion (guessed) : 1.24.1 ==> 1.25.0-rc2
-docker-credential-helper-ecr (guessed) : 0.3.1 ==> 2/0.3.0-1
-doctl (guessed) : 1.32.3 ==> 1.33.0
+dnscontrol (guessed) : 2.10.0 ==> 5609e41703f05f4ad331
+dnsdist : 1.3.2 ==> 1.4.0
+Warning: docbook-xsl (guessed) version is greater than the upstream version
+docker (guessed) : 19.03.5 ==> 19.03.6
+docker-compose (guessed) : 1.25.4 ==> 1.26.0-test
+docker-compose-completion (guessed) : 1.25.4 ==> 1.26.0-test
+docker-credential-helper-ecr (guessed) : 0.4.0 ==> 2/0.3.0-1
 dosbox-x (guessed) : 0.82.22 ==> 201805181700
+dovecot : 2.3.9.2 ==> 2.3.9.3
 dps8m (guessed) : 1.0 ==> 7a1
-duck : 7.0.2.30998 ==> 7.1.1.31577
-dust (guessed) : 0.3.1 ==> 1499119fdec1dec70238
-dvc (guessed) : 0.65.0 ==> 0.66.0
-dwarfutils : 20180809 ==> 20191002
+druid : 0.12.3 ==> 0.17.0
+Warning: dsocks (guessed) version is greater than the upstream version
+dune (guessed) : 2.1.0 ==> 2.2.0
+duply : 2.2 ==> 2.2.1
+dust (guessed) : 0.4.1.2 ==> 1499119fdec1dec70238
+dvc (guessed) : 0.83.0 ==> 0.84.0
+dwarfutils : 20180809 ==> 20200114
 dxflib : 2.5.0.0-1 ==> 3.17.0
-e2fsprogs : 1.44.5 ==> 1.45.4
+dxpy : 0.289.1 ==> 0.290.1
+Warning: dynare (guessed) version is greater than the upstream version
+e2fsprogs : 1.44.5 ==> 1.45.5
 easyrpg-player : 0.6.0 ==> 0.6.1
-efl : 1.22.4 ==> 1.23.1
-ejabberd (guessed) : 19.05 ==> 19.09.1
-ejdb (guessed) : 1.2.12 ==> 2.0.28
+efl : 1.22.4 ==> 1.23.3
+ejabberd (guessed) : 19.05 ==> 20.01
+ejdb (guessed) : 2.0.36 ==> 2.0.39
 ekg2 (guessed) : 0.3.1 ==> 2_0.3.1
-elasticsearch (guessed) : 6.8.4 ==> 7.4.1
+elasticsearch (guessed) : 6.8.6 ==> 7.6.0
 elinks (guessed) : 0.11.7 ==> 0.12pre6
-elm (guessed) : 0.19.0 ==> 0.19.1
-embree (guessed) : 3.6.1 ==> 3.6.2-alpha.1
 emojify (guessed) : 1.0.2 ==> 2.1.0
-emscripten : 1.38.44 ==> 1.39.0
+emscripten : 1.38.44 ==> 1.39.7
 epic5 (guessed) : 2.1.1 ==> 5-2.1.1
-erlang@20 : 20.3.8.22 ==> 20.3.8.23
-exim : 4.92.3 ==> 4.92.3-1
+Warning: epsilon (guessed) version is greater than the upstream version
+Warning: espeak (guessed) version is greater than the upstream version
+Warning: etl (guessed) version is greater than the upstream version
+euler-py (guessed) : 1.3.0 ==> 1.4.0
+evince (guessed) : 3.34.2 ==> 3.35.1
+exim : 4.92.3 ==> 4.93-10
 exult (guessed) : 1.4.9rc1+r7520 ==> 03
+fail2ban : 0.10.5 ==> 0.11.1
 fairymax (guessed) : 4.8V ==> 5.0b
+faiss (guessed) : 1.6.1 ==> 20180223
 fakeroot : 1.23 ==> 1.24
 fantom : 1.0.71 ==> 1.0.73
-fcl (guessed) : 0.5.0 ==> 0.6.0RC
+fastlane (guessed) : 2.141.0 ==> 116
+fatsort : 1.5.0 ==> 1.6.2
+faudio (guessed) : 20.01 ==> 20.02
+Warning: fceux (guessed) version is greater than the upstream version
+Warning: fcgi (guessed) version is greater than the upstream version
 fdclone : 3.01h ==> 3.01j
-fdupes (guessed) : 1.6.1 ==> 1.51
-ffsend (guessed) : 0.2.52 ==> 0.2.54
-fibjs (guessed) : 0.28.0 ==> 20191020235350-e3f8651
+fdupes (guessed) : 1.6.1 ==> 2.0.0
+feh : 3.2.1 ==> 3.3
+fetch-crl : 3.0.20 ==> 3.0.21
+Warning: fetchmail (guessed) version is greater than the upstream version
 fifechan (guessed) : 0.1.5 ==> 2
-file-roller (guessed) : 3.32.2 ==> 3.35.1
-filebeat (guessed) : 6.2.4 ==> 7.4.1
-finatra (guessed) : 1.5.3 ==> 19.10.0
-fits (guessed) : 1.2.1 ==> 1.5.0
-fluent-bit : 0.14.9 ==> 1.3.2
-fluxctl (guessed) : 1.15.0 ==> 9a99
+file-roller (guessed) : 3.32.3 ==> 3.35.90
+filebeat (guessed) : 6.2.4 ==> 7.6.0
+fileicon (guessed) : 0.2.2 ==> 0.2.4
+finatra (guessed) : 1.5.3 ==> 20.1.0
+Warning: findent (guessed) version is greater than the upstream version
+firebase-cli (guessed) : 7.12.1 ==> 7.13.0
+Warning: fish version is greater than the upstream version
+Warning: flac123 (guessed) version is greater than the upstream version
+Warning: flactag (guessed) version is greater than the upstream version
+Warning: flake (guessed) version is greater than the upstream version
+Warning: flashrom version is greater than the upstream version
+flintrock (guessed) : 0.11.0 ==> 1.0.0
+fluent-bit : 1.3.4 ==> 1.3.7
+fluid-synth (guessed) : 2.0.8 ==> 2.1.0
+fluxctl (guessed) : 1.18.0 ==> 9a99
 flvmeta (guessed) : 1.2.1 ==> 1.2.2
-folly (guessed) : 2019.10.14.00 ==> 2019.10.21.00
-fon-flash-cli (guessed) : 1.10.0 ==> 1.11.0
+flyway : 6.2.2 ==> 6.2.3
+fobis (guessed) : 2.9.5 ==> 3.0.1
+fon-flash-cli (guessed) : 1.10.0 ==> 1.12.0
+format-udf (guessed) : 1.6.1 ==> 1.7.1
 fox : 1.6.56 ==> 1.6.57
+fq (guessed) : 0.12.0 ==> 0.13.0
 freeglut (guessed) : 3.0.0 ==> 3.2.1
-freerdp (guessed) : 1.0.2 ==> 2.0.0-rc4
-freetds : 1.1.15 ==> 1.1.20
+Warning: freeimage (guessed) version is greater than the upstream version
+freeling (guessed) : 4.1 ==> 4.1.1
+Warning: freeradius-server version is greater than the upstream version
 frege (guessed) : 3.24.405 ==> 3.25
-frugal (guessed) : 3.4.8 ==> 3.4.9
-fstar (guessed) : 0.9.6.0 ==> 17
-fuse-zip : 0.6.2 ==> 0.7.0
-fuseki : 3.12.0 ==> 3.13.1
+frotz (guessed) : 2.50 ==> 2.51
+Warning: ftgl (guessed) version is greater than the upstream version
+Warning: ftjam (guessed) version is greater than the upstream version
 fuzzy-find (guessed) : 0.6.0 ==> 0.6-flag-features
+fwknop (guessed) : 2.6.10 ==> 2.6.11-pre1
 gabedit : 2.5.0 ==> 250
 gambit (guessed) : 15.1.1 ==> 16.0.1
 gambit-scheme (guessed) : 4.9.3 ==> 4.9.3-bootstrap
 ganglia (guessed) : 3.7.2 ==> 06192002_1949_2_4_2
-gdal : 2.4.2 ==> 3.0.1
-gdb (guessed) : 8.3 ==> 20131001
-gdcm : 3.0.3 ==> 3.0.4
-geckodriver (guessed) : 0.25.0 ==> 0.26.0
+Warning: gaul (guessed) version is greater than the upstream version
+gcc (guessed) : 9.2.0 ==> 77-0.5.22
+gcovr (guessed) : 4.1 ==> 4.2
+Warning: gcviewer (guessed) version is greater than the upstream version
+gdal : 2.4.4 ==> 3.0.4
+gdb (guessed) : 9.1 ==> 20131001
+gearman (guessed) : 1.1.18 ==> 1.1.19
+gedit (guessed) : 3.34.1 ==> 3.35.90
 geeqie : 1.4 ==> 1.5.1
-geoserver (guessed) : 2.15.2 ==> 2.16.0
+gegl : 0.4.16 ==> 0.4.20
+genometools (guessed) : 1.5.10 ==> 1.6.1
+Warning: geographiclib (guessed) version is greater than the upstream version
 gerbil-scheme (guessed) : 0.15.1 ==> 0.16-DEV
-gerbv : 2.6.0 ==> 2.7.0
-git-annex (guessed) : 7.20191017 ==> 7.20191024
-git-delta (guessed) : 0.0.13 ==> 0.0.14
-git-lfs (guessed) : 2.8.0 ==> 2.9.0
+gh (guessed) : 0.5.4 ==> 0.5.5
+ghostscript (guessed) : 9.50 ==> 9.51rc1
+Warning: gibbslda (guessed) version is greater than the upstream version
+Warning: giflib (guessed) version is greater than the upstream version
+git-archive-all (guessed) : 1.20.0 ==> 1.21.0
+git-cinnabar (guessed) : 0.5.3 ==> 0.5.4
+git-filter-repo (guessed) : 2.24.0 ==> 2.25.0
+git-ftp (guessed) : 1.5.2 ==> 1.6.0
 git-multipush (guessed) : 2.3 ==> 2.4.rc2
 git-octopus (guessed) : 1.4 ==> 2.0-beta.3
+git-quick-stats (guessed) : 2.0.12 ==> 2.0.14
+git-remote-gcrypt (guessed) : 1.2 ==> 1.3
+warning: redirecting to https://opendev.org/opendev/git-review/
 git-subrepo (guessed) : 0.4.0 ==> 216-1
-giter8 (guessed) : 0.11.0 ==> 0.12.0-M2
-gitfs (guessed) : 0.4.5.1 ==> 0.5.2
-gitlab-gem (guessed) : 4.11.0 ==> 4.12.0
-gitlab-runner (guessed) : 12.3.0 ==> 12.4.0
-gjs (guessed) : 1.58.1 ==> 1.63.1
+giter8 (guessed) : 0.11.0 ==> 0.12.0-M3
+gitlab-gem (guessed) : 4.11.0 ==> 4.13.1
+gitlab-runner (guessed) : 12.7.1 ==> 12.8.0-rc1
+Warning: gitslave (guessed) version is greater than the upstream version
+gjs (guessed) : 1.58.4 ==> 1.63.90
 glbinding (guessed) : 2.1.4 ==> 3.1.0
-glib (guessed) : 2.62.2 ==> 2.63.0
-glib-networking (guessed) : 2.62.1 ==> 2.63.1
+glib (guessed) : 2.62.4 ==> 2.63.5
+glib-networking (guessed) : 2.62.3 ==> 2.63.90
 glibmm (guessed) : 2.62.0 ==> 2.63.1
-glm : 0.9.9.5 ==> 0.9.9.6
-globus-toolkit : 6.0.1531931206 ==> 6.0.1558548600
-glooctl (guessed) : 0.20.9 ==> 1.0.0-rc1
-glslang (guessed) : 7.11.3214 ==> 17964dc8f720e212dcb7
-glslviewer (guessed) : 1.5.5 ==> 1.6.0
-gmic : 2.7.4 ==> 2.7.5
-gnome-builder (guessed) : 3.30.3 ==> 3.34.1
+glm : 0.9.9.5 ==> 0.9.9.7
+glslang (guessed) : 8.13.3559 ==> 17964dc8f720e212dcb7
+gmic : 2.8.3 ==> 2.8.4
+gmp (guessed) : 6.1.2 ==> 6.2.0
+gnome-builder (guessed) : 3.30.3 ==> 3.35.3
 gnome-themes-standard (guessed) : 3.22.3 ==> 3.27.90
+Warning: gnu-cobol (guessed) version is greater than the upstream version
+gnu-getopt (guessed) : 2.35 ==> 2.35.1
 gnu-go (guessed) : 3.8 ==> 3-9-1
 gnu-smalltalk (guessed) : 3.2.5 ==> 3.2.91
 gnuradio (guessed) : 3.7.13.4 ==> 3.8tech-preview
-go-bindata (guessed) : 3.15.0 ==> 3.16.0
+Warning: gnuski (guessed) version is greater than the upstream version
+gobject-introspection (guessed) : 1.62.0 ==> 1.63.2
 gollum (guessed) : 0.5.4 ==> 0.6.0-beta2
 golo (guessed) : 3.3.0 ==> 3.3.0-M1
 goose (guessed) : 2.3.0 ==> 2.7.0-rc4
-goreman (guessed) : 0.3.0 ==> 0.3.4
-gosu (guessed) : 1.14.15 ==> 1.15.8
+goreleaser (guessed) : 0.125.0 ==> 0.126.0
+goreman (guessed) : 0.3.5 ==> 93
+gosu (guessed) : 1.14.17 ==> 1.15.8
+govc (guessed) : 0.22.1 ==> 0.22.2
+Warning: gpcslots2 (guessed) version is greater than the upstream version
 gpredict (guessed) : 2.2.1 ==> 2.3
+gprof2dot (guessed) : 2017.9.19 ==> 2019.11.30
 gpsbabel (guessed) : 1.6.0 ==> 20060521
-grafana (guessed) : 6.4.2 ==> 6.4.3
+gr-osmosdr (guessed) : 0.1.4 ==> 0.1.5
+Warning: graphviz version is greater than the upstream version
+grin-wallet (guessed) : 3.0.0 ==> 3.0.1-beta.1
 grok (guessed) : 0.9.2 ==> 1.20110630
-gromacs : 2019.3 ==> 2019.4
-grpc-swift (guessed) : 0.9.1 ==> 1.0.0-alpha.6
-gsoap : 2.8.89 ==> 2.8.94
+gromacs : 2019.3 ==> 2020
+groovy : 2.5.9 ==> 3.0.0
+groovysdk : 2.5.8 ==> 3.0.0
+fatal: repository 'https://kobo.github.io/groovyserv.git/' not found
+grpc : 1.26.0 ==> 1.27.2
+grpc-swift (guessed) : 0.9.1 ==> 1.0.0-alpha.9
+Warning: grsync (guessed) version is greater than the upstream version
+gsoap : 2.8.89 ==> 2.8.97
+gti (guessed) : 1.6.1 ==> 1.7.0
 gtk+ (guessed) : 2.24.32 ==> 19971201
 gtk+3 (guessed) : 3.24.12 ==> 3.94.0
-gtk-gnutella (guessed) : 1.1.14 ==> 1.1.15
-gtkdatabox (guessed) : 0.9.3.0 ==> 0.9.3.1
-gtkmm (guessed) : 2.24.5 ==> 3.95.1
-gtkmm3 (guessed) : 3.24.2 ==> 3.95.1
+Warning: gtkextra (guessed) version is greater than the upstream version
+gtkmm (guessed) : 2.24.5 ==> 3.97.1
+gtkmm3 (guessed) : 3.24.2 ==> 3.97.1
 gtksourceview (guessed) : 2.10.5 ==> 4.4.0
 gtksourceview3 (guessed) : 3.24.11 ==> 4.4.0
 gtksourceviewmm (guessed) : 2.10.3 ==> 3.91.1
 gtksourceviewmm3 (guessed) : 3.18.0 ==> 3.91.1
+Warning: gtkspell3 (guessed) version is greater than the upstream version
+guile : 2.2.6 ==> 3.0.0
+Warning: gupnp version is greater than the upstream version
 h264bitstream (guessed) : 0.1.9 ==> 0.2.0
 h2o (guessed) : 2.2.6 ==> 2.3.0-beta2
-haproxy : 2.0.7 ==> 2.0.8
-hbase : 1.3.5 ==> 1.4.11
-heartbeat (guessed) : 6.2.4 ==> 7.4.1
+haproxy : 2.1.2 ==> 2.1.3
+hbase : 1.3.5 ==> 2.2.3
+Warning: healpix (guessed) version is greater than the upstream version
+heartbeat (guessed) : 6.2.4 ==> 7.6.0
 heimdal : 7.6.0 ==> 7.7.0
-helmsman (guessed) : 1.12.0 ==> 1.12.1
-hfstospell (guessed) : 0.5.0 ==> 0.5.1
-homeassistant-cli (guessed) : 0.7.0 ==> 833e7f9176e1e602853d
-hopenpgp-tools (guessed) : 0.21.3 ==> 2.8
+helm (guessed) : 3.0.3 ==> 3.1.0
+helmfile (guessed) : 0.99.0 ==> 0.99.1
+hevea : 2.32 ==> 2.33
+hg-fast-export (guessed) : 190913 ==> 200213
+homeassistant-cli (guessed) : 0.8.0 ==> 833e7f9176e1e602853d
+hopenpgp-tools (guessed) : 0.21.3 ==> 2.9.2
+Warning: ht (guessed) version is greater than the upstream version
+Warning: htmlcleaner (guessed) version is greater than the upstream version
+Warning: htmlcxx (guessed) version is greater than the upstream version
 htop (guessed) : 2.2.0 ==> 3.0.0beta5
-i2p : 0.9.42 ==> 0.9.43
-i386-elf-binutils (guessed) : 2.32 ==> 2.33.1
-i386-elf-gdb (guessed) : 8.3 ==> 8.3.1
+Warning: hypre version is greater than the upstream version
+i386-elf-gdb (guessed) : 9.1 ==> 20131001
+Warning: iat (guessed) version is greater than the upstream version
+icecream (guessed) : 1.3 ==> 1.3.1
+icu4c : 64.2 ==> 65.1
 igv : 2.5.3 ==> 9
-ilmbase (guessed) : 2.3.0 ==> 2.4.0
-imagemagick : 7.0.8-68 ==> 7.0.9-0
-imagemagick@6 : 6.9.10-66 ==> 6.9.10-69
-imapsync (guessed) : 1.921 ==> 1.945
-immortal (guessed) : 0.23.0 ==> 0.24.0
-infer (guessed) : 0.15.0 ==> 0.17.0
-influxdb : 1.7.7 ==> 1.7.8
+ilmbase (guessed) : 2.4.0 ==> 2.4.1
+imagemagick : 7.0.9-21 ==> 7.0.9-22
+imagemagick@6 : 6.9.10-91 ==> 6.9.10-92
+imapfilter (guessed) : 2.6.14 ==> 2.6.16
+imgproxy (guessed) : 2.9.0 ==> 2.10.0
+Warning: imlib2 (guessed) version is greater than the upstream version
+immortal (guessed) : 0.23.0 ==> 0.24.1
+infer (guessed) : 0.17.0 ==> 0.17.1
 inform6 (guessed) : 6.33-6.12.1 ==> 6.34-6.12.2
-inlets (guessed) : 2.5.0 ==> 851a2492f240628e1
+inlets (guessed) : 2.6.4 ==> 851a2492f240628e1
 innoextract (guessed) : 1.7 ==> 1.8
-inspircd : 2.0.27 ==> 3.4.0
-interactive-rebase-tool (guessed) : 1.1.0 ==> 20
+inspircd : 2.0.27 ==> 3.5.0
+instalooter (guessed) : 2.4.1 ==> 2.4.2
+interactive-rebase-tool (guessed) : 1.2.1 ==> 20
 intercal (guessed) : 0.31 ==> 1.27
 io (guessed) : 2017.09.06 ==> 2019.05.22-alpha
 ios-class-guard (guessed) : 0.8 ==> 3.5
-ios-deploy (guessed) : 1.9.4 ==> 1.10.0-beta.3
 ios-sim (guessed) : 8.0.2 ==> 9.0.0-dev.4
-ipbt : 20180824 ==> 20190601.d1519e0
+ipbt : 20190601 ==> 20190601.d1519e0
+Warning: iperf (guessed) version is greater than the upstream version
+Warning: ipmiutil (guessed) version is greater than the upstream version
 ipopt (guessed) : 3.12.13 ==> 3.13.0
-ipython (guessed) : 7.8.0 ==> 7.9.0
-ircd-hybrid : 8.2.24 ==> 8.2.26
+ipython (guessed) : 7.8.0 ==> 7.12.0
+ircd-hybrid : 8.2.24 ==> 8.2.28
 irrtoolset (guessed) : 5.0.1 ==> 16667_base
-istioctl (guessed) : 1.3.3 ==> 1.4.0-beta.0
+isl : 0.22 ==> 0.22.1
+istioctl (guessed) : 1.4.3 ==> 1.5.0-beta.1
 itex2mml : 1.5.7 ==> 1.6.0
-itk (guessed) : 4.13.2 ==> 5.1b01
-javacc (guessed) : 7.0.4 ==> 60_61_merge
+fatal: repository 'https://itk.org/ITK.git/' not found
+itk (guessed) : 5.0.1 ==> 5.1rc01
+Warning: itpp (guessed) version is greater than the upstream version
+Warning: jags (guessed) version is greater than the upstream version
+Warning: jasmin (guessed) version is greater than the upstream version
+javacc (guessed) : 7.0.5 ==> 60_61_merge
 jdnssec-tools (guessed) : 0.15 ==> 0.16
-jenkins-job-builder : 2.10.0 ==> 3.0.2
-jetty-runner : 9.4.15.v20190215 ==> 9.4.22.v20191022
+jena : 3.13.1 ==> 3.14.0
+jenkins (guessed) : 2.220 ==> 3a154d27f5bd99802eb
+jetty-runner : 9.4.15.v20190215 ==> 9.4.26.v20200117
+jmxtrans (guessed) : 270 ==> 271
 jnethack (guessed) : 3.4.3-0.11 ==> 3.6.2
 jrnl (guessed) : 1.9.8 ==> 2.1-beta4
-jsdoc3 (guessed) : 3.6.3 ==> 4.0.0-dev.5
+jsdoc3 (guessed) : 3.6.3 ==> 4.0.0-dev.10
+Warning: json_spirit (guessed) version is greater than the upstream version
+jsoncpp (guessed) : 1.9.1 ==> 1.9.2
+jsonschema2pojo : 1.0.1 ==> 1.0.2
 juise (guessed) : 0.8.0 ==> 0.9.0
-juju (guessed) : 2.6.9 ==> 2.7-beta1
-kafka : 2.3.0 ==> 2.3.1
-khard (guessed) : 0.13.0 ==> 0.15.0
-kibana (guessed) : 6.8.3 ==> 7.4.1
-knot : 2.8.4 ==> 2.9.0
-knot-resolver : 3.2.1 ==> 4.2.2
-kobalt (guessed) : 1.0.125 ==> 1.0.128
-kops (guessed) : 1.14.0 ==> 1.15.0-beta.1
-ktoblzcheck : 1.49 ==> 1.50
-kubeprod (guessed) : 1.3.4 ==> 1.3.5
-kubernetes-helm (guessed) : 2.15.1 ==> 3.0.0-beta.5
-kubernetes-service-catalog-client (guessed) : 0.2.2 ==> 0.3.0-beta.1
+jupyterlab (guessed) : 1.2.4 ==> 1.2.6
+k3d (guessed) : 1.6.0 ==> 3.0.0-alpha.1
+kallisto (guessed) : 0.46.1 ==> 0.46.2
+Warning: kettle (guessed) version is greater than the upstream version
+kibana (guessed) : 6.8.6 ==> 7.6.0
+knot : 2.8.4 ==> 2.9.2
+knot-resolver : 3.2.1 ==> 5.0.1
+kops (guessed) : 1.15.2 ==> 1.18.0-alpha.2
+krb5 : 1.17.1 ==> 1.18
+krew (guessed) : 0.3.3 ==> 0.3.4
+ktoblzcheck : 1.49 ==> 1.52
+kube-aws (guessed) : 0.14.3 ==> 0.15.1
+kubernetes-cli (guessed) : 1.17.2 ==> 1.18.0-alpha.5
+kubernetes-service-catalog-client (guessed) : 0.2.2 ==> 0.3.0-beta.2
 kumo (guessed) : 1.17 ==> 1.22
-kustomize (guessed) : 3.2.1 ==> 3.3.1
+kustomize (guessed) : 3.5.4 ==> 8s/v0.1.0
+kyma-cli (guessed) : 1.9.0 ==> 1.10.0
 l-smash (guessed) : 2.9.1 ==> 2.14.5
+lapack (guessed) : 3.8.0 ==> 3.9.0
+Warning: latex2rtf (guessed) version is greater than the upstream version
 latexml (guessed) : 0.8.4 ==> 1.0.7
-ldc : 1.17.0 ==> 1.18.0
+Warning: launch4j (guessed) version is greater than the upstream version
+lazygit (guessed) : 0.14.2 ==> 0.14.3
+ldid (guessed) : 1.2.1 ==> 2.1.2
+le : 1.16.5 ==> 1.16.7
 ledger (guessed) : 3.1.3 ==> 2006
+Warning: lensfun (guessed) version is greater than the upstream version
+Warning: lft version is greater than the upstream version
+lftp : 4.9.0 ==> 4.9.1
+fatal: repository 'https://git.videolan.org/git/libaacs.git/' not found
+libarchive : 3.4.1 ==> 3.4.2
+Warning: libb64 (guessed) version is greater than the upstream version
+fatal: repository 'https://git.videolan.org/git/libbdplus.git/' not found
 libbladerf (guessed) : 2018.08 ==> 2019.07
-libcouchbase (guessed) : 2.10.4 ==> 3.0.0-beta.1
+Warning: libbs2b (guessed) version is greater than the upstream version
+Warning: libcmph (guessed) version is greater than the upstream version
+libcouchbase (guessed) : 2.10.5 ==> 3.0.0
+Warning: libcsv (guessed) version is greater than the upstream version
+libdap : 3.20.4 ==> 3.20.5
+libdazzle (guessed) : 3.34.1 ==> 3.35.3
+Warning: libdbi (guessed) version is greater than the upstream version
 libdnet (guessed) : 1.12 ==> 2001-Oct-11
 libdrawtext (guessed) : 0.4 ==> 0.5
+warning: redirecting to https://code.videolan.org/videolan/libdvdcss.git/
+warning: redirecting to https://code.videolan.org/videolan/libdvdnav.git/
+warning: redirecting to https://code.videolan.org/videolan/libdvdread.git/
 libewf (guessed) : 20140608 ==> 20171104
-libfabric (guessed) : 1.8.1 ==> 1.9.0rc1
+libffi (guessed) : 3.2.1 ==> 3.3
 libfixbuf : 2.3.1 ==> 2.4.0
 libgda (guessed) : 5.2.9 ==> 5.90.1
 libgdata (guessed) : 0.16.1 ==> 0.17.11
-libgr (guessed) : 0.37.0 ==> 0.42.0
+libgosu (guessed) : 0.14.5 ==> 0.15.1
+libgusb (guessed) : 0.3.1 ==> 0.3.3
+Warning: libicns (guessed) version is greater than the upstream version
+Warning: libid3tag (guessed) version is greater than the upstream version
 libinfinity : 0.6.8 ==> 0.7.1
+libjson-rpc-cpp (guessed) : 1.2.0 ==> 1.3.0
+libjwt (guessed) : 1.11.0 ==> 1.12.0
 liblas (guessed) : 1.8.1 ==> 20071229
 liblinear (guessed) : 2.30 ==> 230
 liblo (guessed) : 0.29 ==> 0.30
+Warning: liblqr (guessed) version is greater than the upstream version
 liblwgeom : 2.5.2 ==> 3.0.0
-libmicrohttpd (guessed) : 0.9.63 ==> 0.9.67
+Warning: libmaa (guessed) version is greater than the upstream version
+Warning: libmetalink (guessed) version is greater than the upstream version
+libmicrohttpd (guessed) : 0.9.63 ==> 0.9.70
 libmp3splt (guessed) : 0.9.2 ==> 2.6.2
-libmypaint (guessed) : 1.4.0 ==> 2.0.0-alpha.2
-libngspice (guessed) : 28 ==> 31.3
+libmpdclient (guessed) : 2.17 ==> 2.18
+libmypaint (guessed) : 1.4.0 ==> 2.0.0-beta.1
+Warning: libnet (guessed) version is greater than the upstream version
+libngspice (guessed) : 31 ==> 31.3
+Warning: libnova (guessed) version is greater than the upstream version
+Warning: liboauth (guessed) version is greater than the upstream version
+Warning: libodfgen (guessed) version is greater than the upstream version
+Warning: libopendkim (guessed) version is greater than the upstream version
+Warning: libosinfo version is greater than the upstream version
 libowfat : 0.31 ==> 0.32
 libp11 (guessed) : 0.4.10 ==> 11-0.4.10
-libplctag : 1.6.3 ==> 2.0.26
-libqalculate (guessed) : 3.4.0 ==> 3.5.0a
-libre : 0.6.0 ==> 0.6.1
-libressl : 2.9.2 ==> 3.0.2.
+Warning: libpano (guessed) version is greater than the upstream version
+libpeas (guessed) : 1.24.1 ==> 1.25.3
+libplctag : 1.6.3 ==> 2.0.30
+libpqxx (guessed) : 6.4.5 ==> 7.0.1
+Warning: libquvi (guessed) version is greater than the upstream version
+Warning: librevenge (guessed) version is greater than the upstream version
+librsvg (guessed) : 2.46.4 ==> 2.47.3
+libserdes (guessed) : 5.3.1 ==> 6.0.0-beta181011024526
 libslax (guessed) : 0.22.1 ==> 2
 libsodium (guessed) : 1.0.18 ==> 1.0.18-RELEASE
+libsoup (guessed) : 2.68.3 ==> 2.69.90
+Warning: libsoxr (guessed) version is greater than the upstream version
 libspiro (guessed) : 0.5.20150702 ==> 20190731
-libssh (guessed) : 0.9.0 ==> 0.9.1
-libtommath (guessed) : 1.1.0 ==> 1.2.0
+Warning: libspnav (guessed) version is greater than the upstream version
+Warning: libsquish (guessed) version is greater than the upstream version
+Warning: libtcod version is greater than the upstream version
+libtrace : 4.0.10 ==> 4.0.11
 libtrng : 4.20 ==> 4.22
-libuv (guessed) : 1.31.0 ==> 1.33.1
+Warning: libusb-compat (guessed) version is greater than the upstream version
 libvncserver (guessed) : 0.9.12 ==> 11VNC_0_9_12
-libvterm : 0.1.1 ==> 726
-libxkbcommon (guessed) : 0.8.4 ==> 0.9.1
-libxml++ (guessed) : 2.40.1 ==> 3.0.1
+libvterm : 0.1.3 ==> 726
+Warning: libwmf (guessed) version is greater than the upstream version
+libxkbcommon (guessed) : 0.9.1 ==> 0.10.0
+libxml++ (guessed) : 2.40.1 ==> 4.9.1
+libxml++3 (guessed) : 3.2.0 ==> 4.9.1
+Warning: libxmp-lite (guessed) version is greater than the upstream version
+libxo (guessed) : 1.0.4 ==> 1.4.0
+fatal: repository 'https://yubico.github.io/yubico-c.git/' not found
 libzt (guessed) : 1.3.1 ==> 1.3.1-hb1
 lincity-ng (guessed) : 2.0 ==> 2.9-beta
 link-grammar : 5.6.2 ==> 5.7.0
+Warning: linkerd version is greater than the upstream version
 little-cms (guessed) : 1.19 ==> 2.9
 lizard (guessed) : 2.0 ==> 132
+llnode (guessed) : 2.2.0 ==> 3.0.0
 lnav (guessed) : 0.8.5 ==> 915e43f7366ef361b465
+Warning: locateme (guessed) version is greater than the upstream version
 log4c (guessed) : 1.2.4 ==> 4c_1_2_4
-logstash (guessed) : 7.4.1 ==> 2203
-logtalk (guessed) : 3.31.0 ==> 3310stable
+logstash (guessed) : 7.5.2 ==> 2203
+logtalk (guessed) : 3.35.0 ==> 3350stable
+Warning: lsdvd (guessed) version is greater than the upstream version
 luajit (guessed) : 2.0.5 ==> 2.1.0-beta3
-macvim (guessed) : 8.1-159 ==> 159
-mahout (guessed) : 0.13.0 ==> 1.0
-makepkg (guessed) : 5.0.2 ==> 5.2.0
-mame (guessed) : 0.214 ==> 0214
+luarocks (guessed) : 3.2.1 ==> 3.3.1
+macvim (guessed) : 8.1-161 ==> 161
+Warning: mad (guessed) version is greater than the upstream version
+Warning: madplay (guessed) version is greater than the upstream version
+mahout (guessed) : 0.13.0 ==> 14.1_2.12
+Warning: makensis (guessed) version is greater than the upstream version
+warning: redirecting to https://git.archlinux.org/pacman.git/
+makepkg (guessed) : 5.0.2 ==> 5.2.1
+Warning: makepp (guessed) version is greater than the upstream version
+mame (guessed) : 0.218 ==> 0218
+Warning: manticoresearch (guessed) version is greater than the upstream version
 marathon-swift (guessed) : 1.0.1 ==> 3.3.0
-mariadb : 10.4.6 ==> 10.4.8
-mariadb@10.2 : 10.2.25 ==> 10.2.27
+mariadb : 10.4.11 ==> 10.4.12
+mariadb@10.2 : 10.2.30 ==> 10.2.31
 masscan (guessed) : 1.0.5 ==> 2
-mawk : 1.3.4-20190203 ==> 1.3.4-20190203.tgz">mawk-1.3.4-20190203
-mbedtls : 2.16.2 ==> 2.16.3
-menhir : 20190626 ==> 20190924
-mercurial : 5.1.1 ==> 5.1.2
-mesa (guessed) : 19.1.7 ==> 20090313
-meson-internal (guessed) : 0.46.1 ==> 0.52.0
-metabase : 0.32.10 ==> 0.33.4
-metricbeat (guessed) : 6.8.4 ==> 7.4.1
+mavsdk (guessed) : 0.24.0 ==> 10
+mawk : 1.3.4-20200120 ==> 1.3.4-20200120.tgz">mawk-1.3.4-20200120
+Warning: mcpp (guessed) version is greater than the upstream version
+mdds : 1.5.0 ==> 1.6.0
+fatal: repository 'https://taku910.github.io/mecab.git/' not found
+fatal: repository 'https://taku910.github.io/mecab.git/' not found
+fatal: repository 'https://taku910.github.io/mecab.git/' not found
+meilisearch (guessed) : 0.8.4 ==> 0.8.5-rc.3
+menhir : 20190924 ==> 20200211
+mesa (guessed) : 19.3.3 ==> 20090313
+meson-internal (guessed) : 0.46.1 ==> 0.53.1
+metabase : 0.32.10 ==> 0.34.2
+metricbeat (guessed) : 6.8.6 ==> 7.6.0
 mftrace (guessed) : 1.2.19 ==> 1.2.20
-mgba : 0.7.3 ==> 0.8
+mgba : 0.7.3 ==> 0.8.0
+micronaut (guessed) : 1.3.0 ==> 1.3.1
 midgard2 (guessed) : 12.09 ==> 12.09.1
-midnight-commander : 4.8.22 ==> 4.8.23
-mikutter (guessed) : 3.8.8 ==> 3.9.6
-miller (guessed) : 5.6.0 ==> 5.6.2
-minetest : 5.0.1 ==> 5.1.0
+mikutter (guessed) : 3.8.8 ==> 4.0.4
+mimic (guessed) : 1.2.0.2 ==> 1.3.0.0
+Warning: mingw-w64 (guessed) version is greater than the upstream version
 minidjvu (guessed) : 0.8 ==> 0.33
-miniupnpc : 2.1 ==> 2.1.20190824
-mkl-dnn (guessed) : 1.1 ==> 1.1.1
-mkvtomp4 (guessed) : 1.3 ==> 4-v1.3
-mldonkey (guessed) : 3.1.6 ==> 3-04rc1
-moarvm (guessed) : 2019.07.1 ==> 9999-please-do-not-use-these
-modules : 4.3.0 ==> 4.3.1
-molten-vk (guessed) : 1.0.34 ==> 1.0.37-Metal-3.0
+minimal-racket : 7.5 ==> 7.6
+Warning: minio (guessed) version is greater than the upstream version
+Warning: minio-mc (guessed) version is greater than the upstream version
+miniupnpc : 2.1 ==> 2.1.20191224
+minizinc (guessed) : 2.3.2 ==> 2.4.2
+minizip2 (guessed) : 2.9.1 ==> 2.9.2
+mint (guessed) : 0.13.0 ==> 0.14.1
+Warning: mjpegtools (guessed) version is greater than the upstream version
+Warning: mkclean (guessed) version is greater than the upstream version
+mkl-dnn (guessed) : 1.2 ==> 2021.1-beta03
+Warning: mkvalidator (guessed) version is greater than the upstream version
+mkvtomp4 (guessed) : 2.0 ==> 4-v2.0
+mmseqs2 (guessed) : 10-6d92c ==> 11-e1a1c
+moarvm (guessed) : 2020.01.1 ==> 9999-please-do-not-use-these
+fatal: repository 'https://search.maven.org/remotecontent?filepath=com/github/dreamhead/moco-runner/1.0.0/moco-runner-1.0.0-standalone.jar.git/' not found
+modules : 4.3.0 ==> 4.4.1
+molecule (guessed) : 2.20.1 ==> 2.22
 mongo-orchestration (guessed) : 0.6.11 ==> 0.6.12
+mongoose (guessed) : 6.16 ==> 6.17
 mongrel2 (guessed) : 1.11.0 ==> 1.12.2.old
 mozjpeg (guessed) : 3.3.1 ==> 8d
+Warning: mp3blaster (guessed) version is greater than the upstream version
 mp3unicode (guessed) : 1.2.1 ==> 3unicode-1.2.1
-mpc : 0.31 ==> 0.32
-mruby (guessed) : 2.0.1 ==> 2.1.0-rc
+Warning: mp3wrap (guessed) version is greater than the upstream version
+Warning: msktutil (guessed) version is greater than the upstream version
 mupen64plus (guessed) : 2.5 ==> 2.5.9
-mypy (guessed) : 0.730 ==> 0.740
-mysql-connector-c++ : 8.0.17 ==> 8.0.18
-n (guessed) : 6.0.1 ==> 6.1.0
-nave (guessed) : 2.4.2 ==> 3.2.0
-ncmpc : 0.30 ==> 0.35
+Warning: myman (guessed) version is greater than the upstream version
+mysql-connector-c++ : 8.0.18 ==> 8.0.19
+nagios-plugins : 2.2.1 ==> 2.3.1
+nailgun (guessed) : 1.0.0 ==> 1.0.1
+nanopb-generator : 0.3.9.4 ==> 0.4.1
+Warning: naturaldocs (guessed) version is greater than the upstream version
+nave (guessed) : 2.4.2 ==> 3.2.1
+ncompress (guessed) : 4.2.4.6 ==> 4.2.4.6-old
+ncurses (guessed) : 6.1 ==> 6.2
+Warning: nedit (guessed) version is greater than the upstream version
+needle (guessed) : 0.11.0 ==> 0.12.0
+nestopia-ue (guessed) : 1.49 ==> 1.50
 net-snmp (guessed) : 5.8 ==> 5.8.1
-netcdf : 4.6.3 ==> 4.7.2
-nethack (guessed) : 3.6.2 ==> 3.6.3_WIP
+Warning: netcdf version is greater than the upstream version
+nethack (guessed) : 3.6.5 ==> 3.7.0_WIP
 nethacked (guessed) : 1.0 ==> 343
-netlify-cli (guessed) : 2.19.3 ==> 2.19.4
+netpbm : 10.86.07 ==> 10.86.08
 nettle (guessed) : 3.4.1 ==> 3.5.1
-nginx : 1.17.3 ==> 1.17.5
-ngspice (guessed) : 30 ==> 31.3
-nifi-registry : 0.4.0 ==> 0.5.0
-nim (guessed) : 1.0.0 ==> 1.0.2
-node (guessed) : 12.12.0 ==> 13.0.1
-nomad : 0.9.6 ==> 0.10.0
+ngspice (guessed) : 31 ==> 31.3
+ngt (guessed) : 1.9.0 ==> 161216-152050
+nng (guessed) : 1.2.6 ==> 12
+node-build (guessed) : 4.7.2 ==> 20191105
+nodeenv (guessed) : 1.3.4 ==> 1.3.5
+nomad : 0.10.3 ==> 0.10.4
+Warning: nrpe (guessed) version is greater than the upstream version
 ntfs-3g (guessed) : 2017.3.23 ==> 20070925
 nudoku (guessed) : 1.0.0 ==> 2.0.0
-nuget : 5.3.0 ==> 20181221
-numpy (guessed) : 1.17.2 ==> 1.17.3
-nushell (guessed) : 0.2.0 ==> 0.4.0
+nuget : 5.4.0 ==> 20200212
+fatal: unable to access 'https://nuxeo.github.io.git/': Could not resolve host: nuxeo.github.io.git
 nwchem (guessed) : 6.8.1 ==> 22_2018
 nzbget (guessed) : 21.0 ==> 21.1-r2311
+oauth2l (guessed) : 1.0.1 ==> 1.0.2
 ocaml : 4.08.1 ==> 4.09.0
-oclgrind (guessed) : 18.3 ==> 32
+Warning: ocamlsdl (guessed) version is greater than the upstream version
+oclgrind (guessed) : 19.10 ==> 32
 ocproxy (guessed) : 1.60 ==> 1.20121120160713
-offlineimap (guessed) : 7.2.4 ==> 7.3.0
+ocrmypdf : 9.5.0 ==> 9.6.0
+octomap (guessed) : 1.9.1 ==> 1.9.3
+odpi (guessed) : 3.2.2 ==> 3.3.0
+okteto (guessed) : 1.6.5 ==> 1.7.1
 olsrd : 0.9.0.3 ==> 0.9.6.1
-onioncat : 0.2.2.r578 ==> 0.2.8.tar.gz" title="onioncat-0.2.8
-open-babel (guessed) : 2.4.1 ==> 3-0-0
+onioncat : 0.2.8 ==> 0.3.3a
+onnxruntime (guessed) : 1.0.0 ==> 1.1.1
 open-cobol (guessed) : 1.1 ==> 2.0
 open-completion (guessed) : 1.0.3 ==> 1.0.4
 open-image-denoise (guessed) : 1.0.0 ==> 1.1.0
-open-scene-graph (guessed) : 3.6.3 ==> 3.6.4
+Warning: open-jtalk (guessed) version is greater than the upstream version
+open-scene-graph (guessed) : 3.6.4 ==> 3.6.5
+Warning: open-sp (guessed) version is greater than the upstream version
+openblas (guessed) : 0.3.7 ==> 0.3.8
 opencbm (guessed) : 0.4.99.99 ==> 20110106-2128
 openclonk (guessed) : 7.0 ==> 8.1
-openexr (guessed) : 2.3.0 ==> 2.4.0
+Warning: opencv version is greater than the upstream version
+opendetex (guessed) : 2.8.5 ==> 2.8.6
+openexr (guessed) : 2.4.0 ==> 2.4.1
+openimageio : 2.1.10 ==> 2.1.11.2
+Warning: openmotif (guessed) version is greater than the upstream version
 openmsx (guessed) : 0.15.0 ==> 1_0_5_0
-openrtsp : 2018.10.17 ==> 2019.10.20
+openrtsp : 2018.10.17 ==> 2020.02.11
+Warning: openshift-cli version is greater than the upstream version
+Warning: openslp (guessed) version is greater than the upstream version
 opentsdb : 2.3.1 ==> 2.4.0
-orc : 0.4.29 ==> 0.4.30
-osc (guessed) : 0.165.2 ==> 0.166.0
-osm2pgsql (guessed) : 0.96.0 ==> 1.2.0
-ospray (guessed) : 1.8.5 ==> 2.0.0-alpha
-osqp (guessed) : 0.6.0 ==> 0.6.0.dev20
-pachi (guessed) : 11.00 ==> 12.40
-pandoc-citeproc : 0.16.2 ==> 0.16.3
+operator-sdk (guessed) : 0.15.1 ==> 0.15.2
+Warning: ortp version is greater than the upstream version
+ospray (guessed) : 1.8.5 ==> 16-submission
+osqp (guessed) : 0.6.0 ==> 0.6.1.dev0
+osquery (guessed) : 3.3.2 ==> 4.2.0
+Warning: osrm-backend version is greater than the upstream version
+ott : 0.29 ==> 0.30
+paket (guessed) : 5.242.1 ==> 6.0.0-alpha016
 pangomm (guessed) : 2.42.0 ==> 2.43.1
-parallel (guessed) : 20190922 ==> 20191022
+par2 : 0.8.0 ==> 0.8.1
 parquet-tools (guessed) : 1.10.0 ==> 1.11.0
-partio (guessed) : 1.1.0 ==> 1.10.1
-pc6001vx (guessed) : 3.1.3 ==> 3.3.0
-pdns : 4.1.11 ==> 4.2.0
+Warning: passpie (guessed) version is greater than the upstream version
+pc6001vx (guessed) : 3.1.3 ==> 3.3.2
+Warning: pcal (guessed) version is greater than the upstream version
+pcl (guessed) : 1.9.1 ==> 1.10.0
+pcre : 8.43 ==> 8.44
+Warning: pdfcrack (guessed) version is greater than the upstream version
+Warning: pdftohtml (guessed) version is greater than the upstream version
+Warning: perceptualdiff (guessed) version is greater than the upstream version
+percona-server : 8.0.17-8 ==> 8.0.18-9
 percona-toolkit : 3.0.13 ==> 3.1.0
-perl-build (guessed) : 1.25 ==> 1.30
-petsc : 3.12.0 ==> 3.12.1
-pgbouncer : 1.10.0 ==> 1_12_0
-pgpool-ii : 3.7.5 ==> 4.0.6
-phoronix-test-suite (guessed) : 9.0.1 ==> 9.2.0m1
-pianobar (guessed) : 2018.06.22 ==> 2019.02.14
+Warning: perltidy (guessed) version is greater than the upstream version
+fatal: repository 'https://git.postgresql.org/gitweb/?p=pg_top.git/' not found
+phoronix-test-suite (guessed) : 9.2.1 ==> 9.4.0m2
+Warning: php version is greater than the upstream version
+phpstan (guessed) : 0.12.9 ==> 0.12.10
 pilosa (guessed) : 1.4.0 ==> 2.0.0-alpha.1
 pinboard-notes-backup (guessed) : 1.0.4.1 ==> 1.0.5
+Warning: pioneers (guessed) version is greater than the upstream version
 pipes-sh (guessed) : 1.3.0 ==> 2014-02-21
+pmd (guessed) : 6.21.0 ==> 6.21.0-with-designer
+fatal: repository 'https://parallel-netcdf.github.io/Release/pnetcdf-1.12.1.tar.gz.git/' not found
+fatal: repository 'https://parallel-netcdf.github.io/index.html.git/' not found
+Warning: pngcheck (guessed) version is greater than the upstream version
+pod2man : 4.12 ==> 4.14
 polipo (guessed) : 1.1.1 ==> 20140107
-poppler : 0.81.0 ==> 0.82.0
 portaudio (guessed) : 19.6.0 ==> 190600_20161030
-postgis : 2.5.3 ==> 3.0.0
-postgresql : 11.5 ==> 12
+Warning: portmidi (guessed) version is greater than the upstream version
+postgresql : 12.1 ==> 12.2
+postgresql@9.4 : 9.4.25 ==> 9.4.26
+postgresql@9.5 : 9.5.20 ==> 9.5.21
+postgresql@9.6 : 9.6.16 ==> 9.6.17
 predictionio (guessed) : 0.9.6 ==> 0.14.0
 premake (guessed) : 4.4-beta5 ==> 5.0.0-alpha14
-procs (guessed) : 0.8.11 ==> 0.8.12
-psqlodbc : 10.03.0000 ==> 12.00.0000
-pugixml (guessed) : 1.9 ==> 1.10
-purescript (guessed) : 0.12.5 ==> 0.13.4
-pwntools (guessed) : 3.12.2 ==> 3.13.0beta0
+proj (guessed) : 6.3.0 ==> 6.3.1
+protobuf-c (guessed) : 1.3.2 ==> 1.3.3
+protoc-gen-go (guessed) : 1.3.3 ==> 1.4.0-rc.1
+psc-package (guessed) : 0.6.0 ==> 0.6.2
+psqlodbc : 12.00.0000 ==> 12.01.0000
+Warning: putmail (guessed) version is greater than the upstream version
+Warning: putmail-queue (guessed) version is greater than the upstream version
+pwntools (guessed) : 3.13.0 ==> 4.1.0beta0
 pwsafe (guessed) : 0.2.0 ==> 1_23_2004
-py2cairo (guessed) : 1.18.1 ==> 1.18.2
-py3cairo (guessed) : 1.18.1 ==> 1.18.2
+py2cairo (guessed) : 1.18.2 ==> 1.19.0
 pyenv-virtualenv : 1.1.3 ==> 1.1.5
-pygobject (guessed) : 2.28.7 ==> 3.34.0
-pyinvoke (guessed) : 1.2.0 ==> 414
-pyqt : 5.10.1 ==> 5.13.1
-python : 3.7.4 ==> 3.8.0
-q (guessed) : 1.7.4 ==> 2.0.2_test1
-qalculate-gtk (guessed) : 3.4.0 ==> 3.5.0
+pygments (guessed) : 2.4.2 ==> 2.5.2
+pyinvoke (guessed) : 1.4.1 ==> 414
+Warning: pyqt version is greater than the upstream version
+python : 3.7.6 ==> 3.8.1
+python-markdown (guessed) : 3.2 ==> 3.2.1
+pyvim (guessed) : 2.0.24 ==> 3.0.2
+q (guessed) : 2.0.9 ==> 2.0.10
+qalculate-gtk (guessed) : 3.7.0 ==> 3.7.0b
 qca (guessed) : 2.2.1 ==> 4.5
-qcachegrind : 18.04.3 ==> 19.08.2
-qjackctl : 0.5.3 ==> 0.6.0
-qscintilla2 : 2.10.4 ==> 2.11.2
-qt (guessed) : 5.13.1 ==> 5.14.0-beta2
-quex : 0.69.3 ==> 0.70.0
-qxmpp (guessed) : 1.0.0 ==> 1.1.0
+qcachegrind : 18.04.3 ==> 19.08.3
+Warning: qscintilla2 version is greater than the upstream version
+Warning: quvi (guessed) version is greater than the upstream version
 r3 (guessed) : 1.3.4 ==> 15M
-rabbitmq-c (guessed) : 0.9.0 ==> 0.9.0-master
-radare2 (guessed) : 3.6.0 ==> 3.9.0
-raine : 0.64.15 ==> 0.64.16
-rancher-cli : 2.3.0 ==> 2.3.1
-rdesktop (guessed) : 1.8.6 ==> 1.9.0
-re-flex (guessed) : 1.4.3 ==> 1.4.4
-recon-ng (guessed) : 5.0.1 ==> 5.0.3
-redpen (guessed) : 1.10.1 ==> 2.0
+rav1e (guessed) : 0.3.0 ==> 20200127
+raylib (guessed) : 2.5.0 ==> 2.6.0
+re-flex (guessed) : 1.4.3 ==> 1.5.8
+Warning: re2 (guessed) version is greater than the upstream version
+fatal: repository 'https://facebook.github.io/react-native.git/' not found
+Warning: readline (guessed) version is greater than the upstream version
+recon-ng (guessed) : 5.1.0 ==> 5.1.1
+redpen (guessed) : 1.10.3 ==> 2.0
 redsocks (guessed) : 0.4 ==> 0.5
 regina-rexx (guessed) : 3.9.1 ==> 3.9.3
 remake : 4.2.1-1.4 ==> 4.2%2Bdbg-1.4
-reminiscence : 0.3.7 ==> 0.4.4
-repo (guessed) : 1.13.7 ==> 1.13.7.1
-residualvm (guessed) : 0.2.1 ==> 0.4.0git
-riak (guessed) : 2.2.3 ==> 2.9.0p4
-rke (guessed) : 0.3.1 ==> 0.3.2-rc3
+repo (guessed) : 2.0 ==> 2.3
+reposurgeon (guessed) : 3.48 ==> 4.3
+residualvm (guessed) : 0.3.1 ==> 0.4.0git
+rke (guessed) : 1.0.4 ==> 1.1.0-rc5
+Warning: rkflashtool (guessed) version is greater than the upstream version
 rlwrap (guessed) : 0.43 ==> 0.43.0-snapshot.july19.2016
-rocksdb (guessed) : 6.1.2 ==> 6.3.6
-rom-tools (guessed) : 0.214 ==> 0214
-root (guessed) : 6.18.04 ==> 6-19-01
+Warning: rnv (guessed) version is greater than the upstream version
+robot-framework (guessed) : 3.1.2 ==> 3.2b1
+Warning: robotfindskitten (guessed) version is greater than the upstream version
+Warning: rogue (guessed) version is greater than the upstream version
+rom-tools (guessed) : 0.218 ==> 0218
+root (guessed) : 6.18.04 ==> 6-20-00-rc1
 rp (guessed) : 1.0 ==> 2-beta
-rpm : 4.14.2.1 ==> 4.15.0
-rrdtool (guessed) : 1.7.0 ==> 1.7.2
 rswift (guessed) : 5.0.0 ==> 5.1.0
+Warning: rtf2latex2e (guessed) version is greater than the upstream version
+ruby : 2.6.5 ==> 2.7.0
 s2geometry (guessed) : 0.9.0 ==> 0.9.0-2019.03.04.00
-s3-backer : 1.5.2 ==> 1.5.4
-s3ql (guessed) : 3.2 ==> 4
-salt (guessed) : 2019.2.1 ==> 2019.8
-scc (guessed) : 2.10.0 ==> 928286b8064e2cf6dd35
-sceptre (guessed) : 2.1.5 ==> 2.2.1
-scummvm : 2.0.0 ==> 2.1.0
-scummvm-tools : 2.0.0 ==> 2.1.0
-sdb (guessed) : 1.4.0 ==> 1.4.1
+s3fs (guessed) : 1.85 ==> 1.86
+s3ql (guessed) : 3.3.2 ==> 4
+salt (guessed) : 2019.2.3 ==> 3000_docs
+sane-backends : 1.0.28 ==> 1.0.29
+Warning: saxon (guessed) version is greater than the upstream version
+Warning: saxon-b (guessed) version is greater than the upstream version
+sbjson (guessed) : 5.0.2 ==> 5.0.3
+Warning: sblim-sfcc (guessed) version is greater than the upstream version
+scc (guessed) : 2.11.0 ==> 928286b8064e2cf6dd35
+sceptre (guessed) : 2.2.1 ==> 2.3.0
 sdedit (guessed) : 4.01 ==> 4.2
-securefs (guessed) : 0.8.3 ==> 0.10
+securefs (guessed) : 0.9.0 ==> 0.10
 seexpr (guessed) : 2.11 ==> 5
-ser2net : 3.5.1 ==> 4.0
-sfk : 1.9.2.0 ==> 1.9.5.2
-shfmt (guessed) : 2.6.4 ==> 3.0.0-alpha3
+sentencepiece (guessed) : 0.1.85 ==> 1.0.0
+ser2net : 3.5.1 ==> 4.1.1
+Warning: serf version is greater than the upstream version
+shadowenv (guessed) : 1.3.0 ==> 1.3.1
+simg2img (guessed) : 1.1.3 ==> 1.1.4
 simh (guessed) : 3.10 ==> 4.0-devel
-simple-scan (guessed) : 3.34.1 ==> 3.35.1
-sjk (guessed) : 0.10.1 ==> 0.14
-skaffold (guessed) : 0.40.0 ==> 0.41.0
-sleuthkit : 4.6.7 ==> 4.7.0
+simple-scan (guessed) : 3.34.2 ==> 3.35.91
+Warning: simutrans (guessed) version is greater than the upstream version
+Warning: singular (guessed) version is greater than the upstream version
+sip : 4.19.20 ==> 4.19.21
+Warning: sipp (guessed) version is greater than the upstream version
+Warning: sispmctl (guessed) version is greater than the upstream version
+sjk (guessed) : 0.10.1 ==> 0.15
+skinny (guessed) : 3.0.3 ==> 3.1.0
+Warning: slashem (guessed) version is greater than the upstream version
+sleuthkit : 4.6.7 ==> 4.8.0
+fatal: unable to access 'https://github.com/flosse/sloc#readme.git/': The requested URL returned error: 400
+Warning: slrn (guessed) version is greater than the upstream version
+Warning: smake (guessed) version is greater than the upstream version
+smali (guessed) : 2.3.4 ==> 2.4.0
+Warning: snap7 (guessed) version is greater than the upstream version
 snapraid (guessed) : 11.3 ==> 11.4-rc
-snort : 2.9.12 ==> 2.9.15
-sonobuoy (guessed) : 0.16.1 ==> 1.11.5-prerelease.1
-sparse (guessed) : 0.6.0 ==> 0.6.1
-spatialindex (guessed) : 1.9.0 ==> 1.9.3
+Warning: sng (guessed) version is greater than the upstream version
+snort : 2.9.12 ==> 2.9.15.1
+Warning: soci (guessed) version is greater than the upstream version
+Warning: solarus (guessed) version is greater than the upstream version
+sonobuoy (guessed) : 0.17.2 ==> 1.11.5-prerelease.1
+Warning: spades version is greater than the upstream version
 sphinx (guessed) : 2.2.11 ==> 2.3.2-beta
-spigot : 20190105 ==> 20190901.1791406
-spirv-cross (guessed) : 2019-07-26 ==> 2019-09-06
-spirv-tools (guessed) : 2019.2 ==> 2019.4
-spotbugs (guessed) : 3.1.12 ==> 4.0.0_beta4
+spigot : 20190901 ==> 20200101.b1b0b20
+spirv-cross (guessed) : 2019-07-26 ==> 2020-01-16
+spirv-tools (guessed) : 2019.2 ==> 2020.1
+spotbugs (guessed) : 3.1.12 ==> 4.0.0_rc3
 sql-translator (guessed) : 0.11024 ==> 1.60
-sqlite : 3.29.0 ==> 3.30.1
 sqlparse (guessed) : 0.2.4 ==> 0.3.0
-sratoolkit (guessed) : 2.9.3 ==> 2.10.0
-srclib (guessed) : 0.2.5 ==> 20003
-ssh-copy-id (guessed) : 8.0p1 ==> 8_1_P1
+Warning: squid version is greater than the upstream version
+Warning: squirrel (guessed) version is greater than the upstream version
+sratoolkit (guessed) : 2.10.0 ==> 2.10.2
+src : 1.27 ==> 1.28
+srtp : 2.2.0 ==> 2.3.0
 remote: Repository not found.
+fatal: repository 'https://github.com/Russell91/sshrc.git/' not found
 remote: Repository not found.
+fatal: repository 'https://github.com/Russell91/sshrc.git/' not found
 remote: Repository not found.
+fatal: repository 'https://github.com/Russell91/sshrc.git/' not found
+fatal: repository 'https://github.com/nullsecuritynet/tools/raw/master/cracker/sshtrix/release/sshtrix-0.0.3.tar.gz.git/' not found
 sslscan (guessed) : 1.11.13 ==> 1.11.13-rbsec
-sslyze (guessed) : 1.4.3 ==> 2.1.4
-starship (guessed) : 0.25.1 ==> 0.25.2
+Warning: sstp-client (guessed) version is greater than the upstream version
+fatal: repository 'https://stanfordnlp.github.io/CoreNLP.git/' not found
+Warning: star (guessed) version is greater than the upstream version
 statik (guessed) : 0.22.2 ==> 0.23.0
-stella (guessed) : 6.0.2 ==> 6.1-beta2
-stellar-core (guessed) : 11.2.0 ==> 12.1.0
-step (guessed) : 0.13.3 ==> 0.14.0-rc.1
-stone-soup : 0.23.2 ==> 0.24.0
-storm : 1.2.3 ==> 2.0.0
+stella (guessed) : 6.0.2 ==> 6.1.0-rc1
+stellar-core (guessed) : 12.1.0 ==> 12.4.0rc1
+step (guessed) : 0.13.3 ==> 0.14.0-rc.3
+Warning: stoken (guessed) version is greater than the upstream version
+storm : 1.2.3 ==> 2.1.0
 stormssh (guessed) : 0.7.0 ==> 1.6.7
-sundials : 4.1.0 ==> 5.0.0
+stress-ng : 0.10.19 ==> 0.11.00
+Warning: stuntman (guessed) version is greater than the upstream version
 supertux (guessed) : 0.5.1 ==> 2-grumbel
-suricata : 4.0.5 ==> 5.0.0
-swift : 4.2.1 ==> 5.1.1
+suricata : 5.0.1 ==> 5.0.2
+fatal: repository 'https://jcenter.bintray.com/io/github/swagger2markup/swagger2markup-cli/1.3.3/swagger2markup-cli-1.3.3.jar.git/' not found
+swift : 4.2.1 ==> 5.1.4
+swift-protobuf (guessed) : 1.7.0 ==> 1.8.0
 switch-lan-play (guessed) : 0.1.0 ==> 0.2.1
-sync_gateway (guessed) : 2.6.0 ==> 4
-sysbench (guessed) : 1.0.17 ==> 1.0.18
+fatal: unable to access 'https://github.s3.amazonaws.com/indeyets/syck.git/': The requested URL returned error: 403
+fatal: unable to access 'https://wiki.github.com/indeyets/syck.git/': The requested URL returned error: 400
+sync_gateway (guessed) : 2.7.0 ==> 4
+Warning: sysdig version is greater than the upstream version
 systemc : 2.3.2 ==> 2.3.3
 taglib (guessed) : 1.11.1 ==> 1.12-beta-1
-tarantool (guessed) : 2.2.1.1 ==> 2.3.0
+Warning: takt (guessed) version is greater than the upstream version
+talisman (guessed) : 1.0.0 ==> 1.1.0
+tarantool (guessed) : 2.3.1.1 ==> 2.4.0
 tarsnap (guessed) : 1.0.39 ==> 1.0.39-deb-2
 task (guessed) : 2.5.1 ==> 251ToMaster
 taskd (guessed) : 1.1.0 ==> 110ToMaster
 tasksh (guessed) : 1.2.0 ==> 120ToMaster
+Warning: tass64 (guessed) version is greater than the upstream version
+tbb (guessed) : 2020_U1 ==> 2020.1
 tbox (guessed) : 1.6.3 ==> 1.6.4
-tcl-tk (guessed) : 8.6.9 ==> 8.7a1
+tcl-tk (guessed) : 8.6.9 ==> 9.0a1
 tcpflow (guessed) : 1.5.0 ==> 1.5.2
-terminator (guessed) : 0.98 ==> 1.91
-terragrunt (guessed) : 0.20.4 ==> 0.21.1
-tesseract (guessed) : 4.1.0 ==> 5.0.0-alpha
-testbottest (guessed) : 0.1 ==> 2.1.15
-testssl (guessed) : 2.9.5-8 ==> 3.0rc5
-texmath (guessed) : 0.11.2.2 ==> 0.11.3
-tgui (guessed) : 0.8.5 ==> 0.8.6
+tepl (guessed) : 4.2.1 ==> 4.3.1
+fatal: repository 'https://raw.githubusercontent.com/liyanage/macosx-shell-scripts/e29f7eaa1eb13d78056dec85dc517626ab1d93e3/term.git/' not found
+fatal: repository 'https://github.com/liyanage/macosx-shell-scripts/blob/master/term.git/' not found
+terrahelp (guessed) : 0.7.3 ==> 0.7.4
+tesseract (guessed) : 4.1.1 ==> 5.0.0-alpha
+testbottest (guessed) : 0.1 ==> 2.2.5
+tfenv (guessed) : 1.0.2 ==> 2.0.0-alpha3
+tgui (guessed) : 0.8.5 ==> 0.8.7
 theora (guessed) : 1.1.1 ==> 1.2.0alpha1
-thrift (guessed) : 0.12.0 ==> 0.13.0
 tidy-html5 (guessed) : 5.6.0 ==> 5.7.28
-tiger-vnc (guessed) : 1.9.0 ==> 1.9.90
-timewarrior (guessed) : 1.1.1 ==> 111ToMaster
-tin : 2.4.2 ==> 2.4.3
+Warning: timidity (guessed) version is greater than the upstream version
+tin : 2.4.2 ==> 2.4.4
 tiny-fugue (guessed) : 5.0b8 ==> 5.0
-tmux (guessed) : 2.9a ==> 3.0
+fatal: repository 'https://thinkaurelius.github.io/titan.git/' not found
+tmux (guessed) : 3.0a ==> 3.1
 todo-txt (guessed) : 2.11.0 ==> 31-fix
-todoman (guessed) : 3.5.0 ==> 3.7.0
-tox : 3.13.2 ==> 3.14.0
+tokei (guessed) : 10.1.1 ==> 10.1.2
+Warning: torrentcheck (guessed) version is greater than the upstream version
+tox : 3.14.3 ==> 3.14.4
+trafficserver (guessed) : 8.0.5 ==> 8.0.6-rc0
 traildb (guessed) : 0.6 ==> 1.1
-treefrog (guessed) : 1.24.0 ==> 1.26.0
-trezor-agent (guessed) : 0.10.0 ==> 0.13.1
+treefrog (guessed) : 1.24.0 ==> 1.28.0
+Warning: tta (guessed) version is greater than the upstream version
 tvnamer (guessed) : 2.5 ==> 3.0.0
-twarc (guessed) : 1.7.3 ==> 1.7.4
-txr : 220 ==> 225
-typescript (guessed) : 3.6.4 ==> 3.7-rc
+twarc (guessed) : 1.7.3 ==> 1.7.5
+txr : 230 ==> 232
+txt2tags (guessed) : 2.6 ==> 3.7
+typescript (guessed) : 3.7.5 ==> 3.8-rc
+u-boot-tools : 2019.10 ==> 2020.01
 ucon64 : 2.1.0 ==> 2.2.0
-uhd : 3.14.1.0 ==> 3.14.1.1
+Warning: udunits version is greater than the upstream version
+Warning: ufraw (guessed) version is greater than the upstream version
 unicorn (guessed) : 1.0.1 ==> 1.0.2-rc1
 unravel (guessed) : 0.2.2 ==> 0.3.0-beta.2
-remote: Repository not found.
-remote: Repository not found.
-remote: Repository not found.
+Warning: unzip (guessed) version is greater than the upstream version
 upscaledb (guessed) : 2.2.0 ==> 2.2.2
-urbit (guessed) : 0.7.4 ==> 2019.10.16
-urdfdom (guessed) : 1.0.3 ==> 1.7.1
-urweb (guessed) : 20180616 ==> 20190217
+urbit (guessed) : 0.7.4 ==> 2020.2.2
+urdfdom (guessed) : 1.0.4 ==> 1.7.1
+urweb (guessed) : 20190217 ==> 20200209
 v2ray-plugin (guessed) : 1.2.0 ==> 20190114
-v8 : 7.7.299.13 ==> 7.8.279.17
-vagrant-completion (guessed) : 2.2.5 ==> 2.2.6
-vapoursynth (guessed) : 47.2 ==> 48-RC6
-vapoursynth-imwri (guessed) : 47.2 ==> 48-RC6
-vapoursynth-ocr (guessed) : 47.2 ==> 48-RC6
-vapoursynth-sub (guessed) : 47.2 ==> 48-RC6
-velero (guessed) : 1.1.0 ==> 1.2.0-beta.1
-vgmstream (guessed) : r1050-2441-gd64c3872 ==> 1050-2574-g246222dd
-vim (guessed) : 8.1.2200 ==> 8.1.2216
-vit (guessed) : 1.3 ==> 2.0.0
+v8 : 8.0.426.16 ==> 8.0.426.19
+vala (guessed) : 0.46.6 ==> 0.47.4
+vale (guessed) : 1.7.1 ==> 2.0.0-beta.3
+vc4asm (guessed) : 0.2.3 ==> 0.3
+Warning: vde (guessed) version is greater than the upstream version
+velero (guessed) : 1.2.0 ==> 1.3.0-beta.1
+vfuse (guessed) : 2.2.5 ==> 3.0.0
+vgmstream (guessed) : r1050-2441-gd64c3872 ==> 1050-2797-g5ea57c08
+vim (guessed) : 8.2.0200 ==> 8.2.0255
+virgil (guessed) : 5.1.7 ==> 5.1.18-alpha
 vnu (guessed) : 18.11.5 ==> 20150216
-vowpal-wabbit (guessed) : 8.7.0 ==> 8.7.0.post1_with_python
+Warning: voldemort version is greater than the upstream version
+vowpal-wabbit (guessed) : 8.7.0 ==> 8.8.0
+Warning: vpcs (guessed) version is greater than the upstream version
 vramsteg (guessed) : 1.1.0 ==> 110ToMaster
-vte (guessed) : 0.28.2 ==> 0.59.0
-vte3 (guessed) : 0.58.2 ==> 0.59.0
+vte3 (guessed) : 0.58.3 ==> 0.59.0
 w3m (guessed) : 0.5.3 ==> 0.5.3+git20190105
-wal2json (guessed) : 1.0 ==> 2json_1_0
+wakatime-cli (guessed) : 10.4.1 ==> 13.0.7
+wal2json (guessed) : 2.0 ==> 2json_2_1
 wdc (guessed) : 1.0.1 ==> 1.1.5
-webpack (guessed) : 4.41.2 ==> 5.0.0-beta.1
-websocat (guessed) : 1.5.0 ==> 1_28
-wesnoth (guessed) : 1.12.6 ==> 1.15.2
-wildfly-as : 17.0.0.Final ==> 18.0.0.Final
-wiredtiger : 3.2.0 ==> 3.2.1
-wireguard-go : 0.0.20190908 ==> 0.0.20191012
-wiremock-standalone (guessed) : 2.25.0 ==> 2.25.1
-wolfssl : 4.1.0 ==> 4.2.0
-wpscan (guessed) : 2.9.4 ==> 3.7.3
-wxmac : 3.0.4 ==> 3.1.2
+weboob (guessed) : 1.5 ==> 2.0
+webpack (guessed) : 4.41.5 ==> 5.0.0-beta.13
+websocat (guessed) : 1.5.0 ==> 2.0.0-alpha0
+Warning: when (guessed) version is greater than the upstream version
+Warning: widelands (guessed) version is greater than the upstream version
+Warning: winexe (guessed) version is greater than the upstream version
+wp-cli-completion (guessed) : 2.3.0 ==> 2.4.0
+wpscan (guessed) : 2.9.4 ==> 3.7.8
+fatal: unable to access 'https://github.s3.amazonaws.com/blangel/wrk.git/': The requested URL returned error: 403
+remote: Repository not found.
+fatal: repository 'https://github.com/sramsay/wu.git/' not found
+remote: Repository not found.
+fatal: repository 'https://github.com/sramsay/wu.git/' not found
+Warning: wv2 (guessed) version is greater than the upstream version
+wxmac : 3.0.4 ==> 3.1.3
+wxmaxima (guessed) : 20.01.3 ==> 20.02.1
+Warning: wxpython (guessed) version is greater than the upstream version
+warning: redirecting to https://code.videolan.org/videolan/x264.git/
+warning: redirecting to https://code.videolan.org/videolan/x264.git/
+x86_64-elf-binutils (guessed) : 2.33.1 ==> 2.34
 xboard (guessed) : 4.9.1 ==> 20140119
+xgboost (guessed) : 0.90 ==> 1.0.0rc1
+Warning: xlslib (guessed) version is greater than the upstream version
+xml-tooling-c : 3.0.4 ==> 3.0.5
+Warning: xmlrpc-c (guessed) version is greater than the upstream version
+Warning: xmlstarlet (guessed) version is greater than the upstream version
+Warning: xmltoman (guessed) version is greater than the upstream version
 xmp (guessed) : 4.1.0 ==> 4.1.4
-xmrig : 2.14.4 ==> 4.3.1
-xrootd : 4.10.1 ==> 4.11.0
-xtensor (guessed) : 0.20.8 ==> 0.20.10
-yacas (guessed) : 1.6.1 ==> 1.8.0
-yarn-completion (guessed) : 0.8.0 ==> 0.15.0
-yle-dl (guessed) : 20190614 ==> 20191022
-yuicompressor (guessed) : 2.4.8 ==> 43
+xrootd : 4.11.1 ==> 4.11.2
+yaegi (guessed) : 0.7.4 ==> 0.7.5
+yarn-completion (guessed) : 0.8.0 ==> 0.16.0
+Warning: yaws version is greater than the upstream version
+Warning: yconalyzer (guessed) version is greater than the upstream version
 z (guessed) : 1.9 ==> 1.11
-zabbix-cli (guessed) : 2.1.1 ==> 2.1.1-1
+zabbix-cli (guessed) : 2.1.1 ==> 2.2.1-1
 zbackup (guessed) : 1.4.4 ==> 1.5-alpha
 zbar (guessed) : 0.10 ==> 1.3.1
+zeek (guessed) : 3.0.1 ==> 3.2.0-dev
+Warning: zero-install (guessed) version is greater than the upstream version
 zeromq (guessed) : 4.3.2 ==> 4.3.2-win
-zita-convolver : 4.0.0 ==> 4.0.3
+zint (guessed) : 2.7.1 ==> 5
+Warning: zip (guessed) version is greater than the upstream version
+Warning: zlib (guessed) version is greater than the upstream version
 zpython (guessed) : 00-5.0.5 ==> 5.7.1
-zrepl (guessed) : 0.1.1 ==> 0.2.0
-zydis (guessed) : 2.0.3 ==> 3.0.0
+zsh-syntax-highlighting (guessed) : 0.6.0 ==> 0.7.0-beta1
+zshdb (guessed) : 1.0.1 ==> 1.1.2
+Warning: zssh (guessed) version is greater than the upstream version
