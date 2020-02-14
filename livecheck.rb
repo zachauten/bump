@@ -18,5 +18,5 @@ def livecheck_formulae(livecheck_output, options)
 end
 
 def run_livecheck(options)
-    `brew livecheck --newer-only #{options.installed ? '--installed' : '--all'} #{options.verbose ? '' : '--quieter'}`
+    `brew livecheck --newer-only #{options.installed ? '--installed' : '--all'} #{options.verbose ? '' : '--quiet'}`
 end

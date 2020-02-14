@@ -4,6 +4,7 @@ require "optparse"
 require "json"
 require_relative "repology"
 require_relative "livecheck"
+require_relative "bump"
 
 Options = Struct.new(:verbose, :dry, :livecheck_file, :repology_file, :installed)
 
@@ -52,8 +53,6 @@ end
 #TODO: Add more utility functions (get all urls/ checksums, use on a subset of packages / one package)
 #TODO: flag to avoid/include libs
 def main
-    ARGV << '-h' if ARGV.empty?
-
     options = Parser.parse(ARGV)
 
     get_formulae(options)
@@ -82,8 +81,13 @@ def get_formulae(options)
     # formulae that are not guessed + formulae that match between repology and livecheck.
     (unique_outdated_formulae << ((repology_formulae & livecheck_formulae).select { |f| f.outdated && !unique_outdated_formulae.include?(f) })).flatten!
 
-    formulae.each { |formula|
-        bump_formula_pr(formula)
+    unique_outdated_formulae.each { |formula|
+        begin
+            bump_formula_pr(formula, options)
+        rescue Exception => e
+            puts e
+            next
+        end
     }
 end
 
