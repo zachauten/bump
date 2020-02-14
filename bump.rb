@@ -5,7 +5,7 @@ def bump_formula_pr(formula, options)
     puts formula
     url = get_new_url(formula)
     checksum = get_checksum(url)
-    `brew bump-formula-pr #{options.dry ? "-n" : ""} #{formula.name} --url #{url} --sha256 #{checksum}`
+    `brew bump-formula-pr #{options.dry ? "-n" : ""} #{formula.name} --url #{url} --sha256 #{checksum} --no-browse`
 end
 
 def get_checksum(url)
