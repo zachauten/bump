@@ -2,13 +2,15 @@ require "open-uri"
 require_relative "formula"
 
 def bump_formula_pr(formula, options)
+    puts formula
     url = get_new_url(formula)
     checksum = get_checksum(url)
-    `brew bump-formula-pr #{options.dry? ? "-n" : ""} #{name} --url #{url} --sha256 #{checksum}`
+    `brew bump-formula-pr #{options.dry ? "-n" : ""} #{formula.name} --url #{url} --sha256 #{checksum}`
 end
 
 def get_checksum(url)
-    tempfile = URI.parse(fetch(url)).open
+    puts url
+    tempfile = URI.parse(url).open
     tempfile.close
     Digest::SHA256.file(tempfile.path).hexdigest
 end
